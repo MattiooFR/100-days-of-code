@@ -13,6 +13,7 @@
 ### Day 1: December, 22, Sunday
 
 **Today's Progress**: I've gone through a MOOC about Python Classes using getter and setter with property.
+I learned 3 special methods to implement in a class to use fancy ability of python. The `\_\_len\_\_(self)` to be able to do `len(instance)`, the \_\_contains\_\_(self, item) to use `item in instance` and the `\_\_str\_\_(self)` to use `print(instance)`
 
 **Thoughts** I'm amazed to see how better the getter and setter concept is implemented in Python than C++ for example. I'm starting to understand more and find it more easily to use the concept of Classes.
 
