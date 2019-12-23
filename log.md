@@ -25,6 +25,7 @@ I also did a list challenge on HackerRank website
 ### Day 2: December, 23, Monday
 
 **Today's Progress**: Following my classes learning, I discovered that `__eq__(self, other)` and `__hash__(self)`are usefull if you want to control the p == q test between your instances and the way your object is stored as a key in a dictionnary. I went through the Learn Python: Classes section in CodeAcademy.
+A list of all the [special method names](https://docs.python.org/3/reference/datamodel.html#specialnames)
 
 **Thoughts** I like to see how easy it is to handle those very usefull mechanism.
 
