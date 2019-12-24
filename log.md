@@ -6,7 +6,8 @@
 
 **Thoughts:** 
 
-**Link to work:** [Example](http://www.example.com)
+**Link(s) to work**
+[Example](http://www.example.com)
 
 
 ### Day 1: December, 22, 2019 - Sunday
@@ -36,8 +37,9 @@ A list of all the [special method names](https://docs.python.org/3/reference/dat
 
 ### Day 3: December 24, 2019 - Tuesday
 
-**Today's Progress**: I continue with my classes tutorial. I've been practicing class inheritance and the concept of implicit, explicit and redefined method. Using a [namedtuple](https://docs.python.org/3/library/collections.html#collections.namedtuple) (a function that returns a class) or a @dataclass (frozen=True) you can easily create 
+**Today's Progress**: I continue with my classes tutorial. I've been practicing class inheritance and the concept of implicit, explicit and redefined method. Using a [namedtuple](https://docs.python.org/3/library/collections.html#collections.namedtuple) (a function that returns a class) or a @dataclass (frozen=True) you can easily create an immutable class.
 
-**Thoughts:** 
+**Thoughts:** A concept that took me long time to understand with C++ seems much more easier, and I quickly see how I could use all of this !
 
-**Link to work:** [Example](http://www.example.com)
+**Link to work:** 
+1. [Fun MOOC about Python](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/courseware/39f73ecca8274b48b5edc06d00ab259c/3495acace4304b78b11ed18a2641367f)
