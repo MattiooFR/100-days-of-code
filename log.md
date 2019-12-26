@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day : January 30, 2020 (Example 1)
+### Day : January 30, 2020
 
 **Today's Progress**: 
 
@@ -51,3 +51,29 @@ A list of all the [special method names](https://docs.python.org/3/reference/dat
 
 **Thoughts:** I'm happy to see I can commit even on christmas day !
 
+
+### Day 5: December 26, 2019
+
+**Today's Progress**: I did some exercise with multiple class inheritance. I also did my Pre Assessment test for the deeplearning nanodegres MOOC. Result are : Differential Calculus = 50% / Linear Algebra = 42% / Python = 72% / Algebra = 83%. They said that I am **modederately prepared** ahah. I will need to do more mathematics to follow up.
+The scope resolution LEGB rule is important to know:
+* Local(L): Defined inside function/class
+* Enclosed(E): Defined inside enclosing functions(Nested function concept)
+* Global(G): Defined at the uppermost level
+* Built-in(B): Reserved names in Python builtin modules
+
+This creates a special case to be aware of :
+`a = 1
+class C:
+  a = 3
+  def f(self):
+    print(a)
+ ins = C()
+ ins.f()`
+ 
+Following the LEGB rule, there are no local `a` variable in the function f, there are no enclosed function, and yes, there is a global variable called a. In this scenario the print(a) will print 1. the bloc a=3 in the class will be skipped. To avoid it and print 3 you must write print(self.a)
+
+**Thoughts:** Not much today, I feel that a lot of work is coming on, this journey. Still 1000% motivated :)
+
+**Link(s) to work**
+[FunMOOC about Python](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/courseware/39f73ecca8274b48b5edc06d00ab259c/b07471402fd84892917c2b207a395b99/)
+[DeepLearning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
