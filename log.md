@@ -43,3 +43,11 @@ A list of all the [special method names](https://docs.python.org/3/reference/dat
 
 **Link to work:** 
 1. [Fun MOOC about Python](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/courseware/39f73ecca8274b48b5edc06d00ab259c/3495acace4304b78b11ed18a2641367f)
+
+
+### Day 4: December 25, 2019
+
+**Today's Progress**: Training about multiple class inheritance, if you do class C(SuperA, SuperB) it will first look attributs in C, then SuperA then SuperB. You can find the order by calling the C.mro() method !
+
+**Thoughts:** I'm happy to see I can commit even on christmas day !
+
