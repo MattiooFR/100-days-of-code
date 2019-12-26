@@ -62,13 +62,15 @@ The scope resolution LEGB rule is important to know:
 * Built-in(B): Reserved names in Python builtin modules
 
 This creates a special case to be aware of :
-`a = 1
+```
+a = 1
 class C:
   a = 3
   def f(self):
     print(a)
  ins = C()
- ins.f()`
+ ins.f()
+ ```
  
 Following the LEGB rule, there are no local `a` variable in the function f, there are no enclosed function, and yes, there is a global variable called a. In this scenario the print(a) will print 1. the bloc a=3 in the class will be skipped. To avoid it and print 3 you must write print(self.a)
 
