@@ -37,7 +37,7 @@ End Date:
 
 [Back Top](#days)
 
-### Day 1: December, 22, 2019 - Sunday
+### Day 1: December, 22, 2019
 
 **Today's Progress**: I've gone through a MOOC about Python Classes using getter and setter with property.
 I learned 3 special methods to implement in a class to use fancy ability of python. The `__len__(self)` to be able to do `len(instance)`, the `__contains__(self, item)` to use `item in instance` and the `__str__(self)` to use `print(instance)`
@@ -51,7 +51,7 @@ I also did a list challenge on HackerRank website
 
 [Back Top](#days)
 
-### Day 2: December, 23, 2019 - Monday
+### Day 2: December, 23, 2019
 
 **Today's Progress**: Following my classes learning, I discovered that `__eq__(self, other)` and `__hash__(self)`are usefull if you want to control the p == q test between your instances and the way your object is stored as a key in a dictionnary. I went through the Learn Python: Classes section in CodeAcademy.
 A list of all the [special method names](https://docs.python.org/3/reference/datamodel.html#specialnames)
@@ -64,7 +64,7 @@ A list of all the [special method names](https://docs.python.org/3/reference/dat
 
 [Back Top](#days)
 
-### Day 3: December 24, 2019 - Tuesday
+### Day 3: December 24, 2019
 
 **Today's Progress**: I continue with my classes tutorial. I've been practicing class inheritance and the concept of implicit, explicit and redefined method. Using a [namedtuple](https://docs.python.org/3/library/collections.html#collections.namedtuple) (a function that returns a class) or a @dataclass (frozen=True) you can easily create an immutable class.
 
