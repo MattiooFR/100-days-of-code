@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+*Main Commitment*:
+
+I will code in **Python** programming language for at least an hour every day for the next 100 days.
+
+Start Date:  
+December 22th, 2019.  
+End Date:  
+
+
+----
+## Days:
+|+|00                                    |10                                   |20                                 |30                                  |40                                  |50                                  |60                                  |70                                  |80                                  |90                                    |
+|--|-------------------------------------|-------------------------------------|-----------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------------------------------------|
+|01| [Day 1](#day-1-december-22-2019)   | [Day 11](#day-11-january-01-2020) | [Day 21](#day-21-december-23-2019)  | [Day 31](#day-31-january-24-2020)  | [Day 41](#day-5-december-25-2019)  | [Day 51](#day-6-december-26-2019)  | [Day 61](#day-7-december-27-2019) | [Day 71](#day-8-december-28-2019) | [Day 81](#day-9-december-29-2019)  | [Day 91](#day-10-december-30-2019)   |
+|02| [Day 2](#day-2-december-23-2019)   | [Day 12](#day-12-january-02-2020) | [Day 22](#day-22-january-02-2020)  | [Day 32](#day-1-january-01-2020)  | [Day 42](#day-1-january-01-2020)  | [Day 52](#day-1-january-01-2020)  | [Day 62](#day-1-january-01-2020) | [Day 72](#day-1-january-01-2020) | [Day 82](#day-1-january-01-2020)  | [Day 92](#day-1-january-01-2020)   |
+|03| [Day 3](#day-3-december-24-2019)   | [Day 13](#day-13-january-03-2020) | [Day 23](#day-23-january-01-2020) | [Day 33](#day-1-january-01-2020)  | [Day 43](#day-1-january-01-2020)  | [Day 53](#day-1-january-01-2020)  | [Day 63](#day-63-november-19-2019) | [Day 73](#day-73-november-29-2019) | [Day 83](#day-83-december-9-2019)  | [Day 93](#day-93-december-19-2019)   |
+|04| [Day 4](#day-4-december-25-2019)   | [Day 14](#day-14-january-04-2019)    | [Day 24](#day-24-january-11-2019) | [Day 34](#day-34-october-21-2019)  | [Day 44](#day-44-october-31-2019)  | [Day 54](#day-54-november-10-2019) | [Day 64](#day-64-november-20-2019) | [Day 74](#day-74-november-30-2019) | [Day 84](#day-84-december-10-2019) | [Day 94](#day-94-december-20-2019)   |
+|05| [Day 5](#day-5-december-26-2019)   | [Day 15](#day-15-january-05-2019)    | [Day 25](#day-25-january-12-2019) | [Day 35](#day-35-october-22-2019)  | [Day 45](#day-45-november-1-2019)  | [Day 55](#day-55-november-11-2019) | [Day 65](#day-65-november-21-2019) | [Day 75](#day-75-december-1-2019)  | [Day 85](#day-85-december-11-2019) | [Day 95](#day-95-december-21-2019)   |
+|06| [Day 6](#day-6-december-27-2019)   | [Day 16](#day-16-january-06-2019)    | [Day 26](#day-26-january-13-2019) | [Day 36](#day-36-october-23-2019)  | [Day 46](#day-46-november-2-2019)  | [Day 56](#day-56-november-12-2019) | [Day 66](#day-66-november-22-2019) | [Day 76](#day-76-december-2-2019)  | [Day 86](#day-86-december-12-2019) | [Day 96](#day-96-december-22-2019)   |
+|07| [Day 7](#day-7-december-28-2019)   | [Day 17](#day-17-january-4-2019)    | [Day 27](#day-27-january-14-2019) | [Day 37](#day-37-october-24-2019)  | [Day 47](#day-47-november-3-2019)  | [Day 57](#day-57-november-13-2019) | [Day 67](#day-67-november-23-2019) | [Day 77](#day-77-december-3-2019)  | [Day 87](#day-87-december-13-2019) | [Day 97](#day-97-december-23-2019)   |
+|08| [Day 8](#day-8-december-29-2019)   | [Day 18](#day-18-january-5-2019)    | [Day 28](#day-28-january-15-2019) | [Day 38](#day-38-october-25-2019)  | [Day 48](#day-48-november-4-2019)  | [Day 58](#day-58-november-14-2019) | [Day 68](#day-68-november-24-2019) | [Day 78](#day-78-december-4-2019)  | [Day 88](#day-88-december-14-2019) | [Day 98](#day-98-december-24-2019)   |
+|09| [Day 9](#day-9-december-30-2019)   | [Day 19](#day-19-january-6-2019)    | [Day 29](#day-29-january-16-2019) | [Day 39](#day-39-october-26-2019)  | [Day 49](#day-49-november-5-2019)  | [Day 59](#day-59-november-15-2019) | [Day 69](#day-69-november-25-2019) | [Day 79](#day-79-december-5-2019)  | [Day 89](#day-89-december-15-2019) | [Day 99](#day-99-december-25-2019)   |
+|10| [Day 10](#day-10-december-31-2019) | [Day 20](#day-20-january-7-2019)    | [Day 30](#day-30-january-17-2019) | [Day 40](#day-40-october-27-2019)  | [Day 50](#day-50-november-6-2019)  | [Day 60](#day-60-november-16-2019) | [Day 70](#day-70-november-26-2019) | [Day 80](#day-80-december-6-2019)  | [Day 90](#day-90-december-16-2019) | [Day 100](#day-100-december-26-2019) |
+
+[Or Jump Right To Conclusion!](#Conclusion)
+
 ### Day : January 30, 2020
 
 **Today's Progress**: 
@@ -9,6 +35,7 @@
 **Link(s) to work**
 [Example](http://www.example.com)
 
+[Back Top](#days)
 
 ### Day 1: December, 22, 2019 - Sunday
 
@@ -22,6 +49,7 @@ I also did a list challenge on HackerRank website
 1. [Fun MOOC about Python](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/courseware/39f73ecca8274b48b5edc06d00ab259c/3495acace4304b78b11ed18a2641367f)
 1. [List challenge in HackerRank](https://www.hackerrank.com/challenges/python-lists)
 
+[Back Top](#days)
 
 ### Day 2: December, 23, 2019 - Monday
 
@@ -34,6 +62,7 @@ A list of all the [special method names](https://docs.python.org/3/reference/dat
 1. [Fun MOOC about Python](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/courseware/39f73ecca8274b48b5edc06d00ab259c/3495acace4304b78b11ed18a2641367f)
 2. [CodeAcademy](https://www.codecademy.com/courses/learn-python-3/lessons/data-types/exercises/object-oriented-programming)
 
+[Back Top](#days)
 
 ### Day 3: December 24, 2019 - Tuesday
 
@@ -44,6 +73,7 @@ A list of all the [special method names](https://docs.python.org/3/reference/dat
 **Link to work:** 
 1. [Fun MOOC about Python](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/courseware/39f73ecca8274b48b5edc06d00ab259c/3495acace4304b78b11ed18a2641367f)
 
+[Back Top](#days)
 
 ### Day 4: December 25, 2019
 
@@ -51,6 +81,7 @@ A list of all the [special method names](https://docs.python.org/3/reference/dat
 
 **Thoughts:** I'm happy to see I can commit even on christmas day !
 
+[Back Top](#days)
 
 ### Day 5: December 26, 2019
 
@@ -80,12 +111,22 @@ Following the LEGB rule, there are no local `a` variable in the function f, ther
 [FunMOOC about Python](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/courseware/39f73ecca8274b48b5edc06d00ab259c/b07471402fd84892917c2b207a395b99/)
 [DeepLearning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
+[Back Top](#days)
+
 ### Day 6: January 27, 2019
 
-**Today's Progress**: I am taking a quick GIT course on codeacademy so I can start tracking all my progress for my course projects on github. I am also doing a free course on Data Analyst to learn pandas and numpy python library as Udacity is recommending me for the Deep Learning nanodegree course.
+**Today's Progress**: I am taking a quick GIT course on codeacademy so I can start tracking all my progress for my course projects on github. I am also doing a free course on Data Analyst to learn pandas and numpy python library as Udacity is recommending me for the Deep Learning nanodegree course. 
+Creating your own exception is very easy:
+'''
+class MyOwnError(Exception):
+  pass
+'''
+That's it ! The convention is to add Error at the end of your own error, and it must inherits from Exception.
 
-**Thoughts:** I used git before, but it was like 3 years ago.. I forgot most of it but I'm happy to see it's coming back quickly !
+**Thoughts:** I used git before, but it was like 3 years ago.. I forgot most of it but I'm happy to see it's coming back quickly ! I also found a very nice log.md from someone doing the 100DaysOfCode challenge and I implemented nice ideas from his on my log.md. Made me learn some markdown stuff
 
 **Link(s) to work**
 [GIT on CodeAcademy](https://www.codecademy.com/courses/learn-git)
 [Intro to Data Analyst](https://classroom.udacity.com/courses/ud170/lessons/5430778793/concepts/54059491250923)
+
+[Back Top](#days)
