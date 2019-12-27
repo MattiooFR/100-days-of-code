@@ -68,9 +68,9 @@ class C:
   a = 3
   def f(self):
     print(a)
- ins = C()
- ins.f()
- ```
+ins = C()
+ins.f()
+```
  
 Following the LEGB rule, there are no local `a` variable in the function f, there are no enclosed function, and yes, there is a global variable called a. In this scenario the print(a) will print 1. the bloc a=3 in the class will be skipped. To avoid it and print 3 you must write print(self.a)
 
@@ -79,3 +79,13 @@ Following the LEGB rule, there are no local `a` variable in the function f, ther
 **Link(s) to work**
 [FunMOOC about Python](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/courseware/39f73ecca8274b48b5edc06d00ab259c/b07471402fd84892917c2b207a395b99/)
 [DeepLearning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+
+### Day 6: January 27, 2019
+
+**Today's Progress**: I am taking a quick GIT course on codeacademy so I can start tracking all my progress for my course projects on github. I am also doing a free course on Data Analyst to learn pandas and numpy python library as Udacity is recommending me for the Deep Learning nanodegree course.
+
+**Thoughts:** I used git before, but it was like 3 years ago.. I forgot most of it but I'm happy to see it's coming back quickly !
+
+**Link(s) to work**
+[GIT on CodeAcademy](https://www.codecademy.com/courses/learn-git)
+[Intro to Data Analyst](https://classroom.udacity.com/courses/ud170/lessons/5430778793/concepts/54059491250923)
