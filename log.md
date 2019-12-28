@@ -37,6 +37,7 @@ End Date:
 
 [Back Top](#days)
 
+----
 ### Day 1: December, 22, 2019
 
 **Today's Progress**: I've gone through a MOOC about Python Classes using getter and setter with property.
@@ -51,6 +52,7 @@ I also did a list challenge on HackerRank website
 
 [Back Top](#days)
 
+----
 ### Day 2: December, 23, 2019
 
 **Today's Progress**: Following my classes learning, I discovered that `__eq__(self, other)` and `__hash__(self)`are usefull if you want to control the p == q test between your instances and the way your object is stored as a key in a dictionnary. I went through the Learn Python: Classes section in CodeAcademy.
@@ -64,6 +66,7 @@ A list of all the [special method names](https://docs.python.org/3/reference/dat
 
 [Back Top](#days)
 
+----
 ### Day 3: December 24, 2019
 
 **Today's Progress**: I continue with my classes tutorial. I've been practicing class inheritance and the concept of implicit, explicit and redefined method. Using a [namedtuple](https://docs.python.org/3/library/collections.html#collections.namedtuple) (a function that returns a class) or a @dataclass (frozen=True) you can easily create an immutable class.
@@ -83,6 +86,7 @@ A list of all the [special method names](https://docs.python.org/3/reference/dat
 
 [Back Top](#days)
 
+----
 ### Day 5: December 26, 2019
 
 **Today's Progress**: I did some exercise with multiple class inheritance. I also did my Pre Assessment test for the deeplearning nanodegres MOOC. Result are : Differential Calculus = 50% / Linear Algebra = 42% / Python = 72% / Algebra = 83%. They said that I am **modederately prepared** ahah. I will need to do more mathematics to follow up.
@@ -113,6 +117,7 @@ Following the LEGB rule, there are no local `a` variable in the function f, ther
 
 [Back Top](#days)
 
+----
 ### Day 6: January 27, 2019
 
 **Today's Progress**: I am taking a quick GIT course on codeacademy so I can start tracking all my progress for my course projects on github. I am also doing a free course on Data Analyst to learn pandas and numpy python library as Udacity is recommending me for the Deep Learning nanodegree course. 
@@ -130,3 +135,17 @@ That's it ! The convention is to add Error at the end of your own error, and it 
 [Intro to Data Analyst](https://classroom.udacity.com/courses/ud170/lessons/5430778793/concepts/54059491250923)
 
 [Back Top](#days)
+
+----
+### Day 7: December 28, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work**
+[Example](http://www.example.com)
+
+[Back Top](#days)
+
+----
