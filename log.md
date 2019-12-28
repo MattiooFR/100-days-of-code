@@ -139,12 +139,12 @@ That's it ! The convention is to add Error at the end of your own error, and it 
 ----
 ### Day 7: December 28, 2019
 
-**Today's Progress**: 
+**Today's Progress**: This morning I did one hour of algebra to understand better how the derrivative of a function works. I practiced using conda to install and create virtual environments.
+I discovered that to install old version of some packages you need to add the channel conda-forge:
+'conda config --add channels conda-forge'
+I also found an error in my Udacity course and I've been trying options to fix it by myself since a few hours. I improved my bash (I use ZSH) so I can see which conda virtual environment is active.
 
-**Thoughts:** 
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I lost myself a bit today, jumping from subject to another but I'm happy to see the progress I still did.
 
 [Back Top](#days)
 
