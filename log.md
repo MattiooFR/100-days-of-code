@@ -149,3 +149,16 @@ I also found an error in my Udacity course and I've been trying options to fix i
 [Back Top](#days)
 
 ----
+### Day 8: December 29, 2019
+
+**Today's Progress**: I discovered a few projects that uses machine learning. I worked for 2 hours on the final project of FunMOOC about Python. I had to write one missing file out of 3 already written. It was about creating classes and definning the proper methods and algorithm. I trained a bit with Git as well on CodeAcademy, and I did some mathematic classes about limits and algebra this morning.
+
+**Thoughts:** I didnt perfect the exercise but I'm quite happy of my ability to get through this !
+
+**Link(s) to work**
+[DeepTrafficCars](https://selfdrivingcars.mit.edu/deeptraffic/)
+[DeepLearning Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird)
+
+[Back Top](#days)
+
+----
