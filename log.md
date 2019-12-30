@@ -161,3 +161,14 @@ I also found an error in my Udacity course and I've been trying options to fix i
 
 [Back Top](#days)
 
+----
+### Day 9: December 30, 2019
+
+**Today's Progress**: I developped my first tool to the community. A [log maker for the 100 days of code challenge](https://github.com/MattiooFR/log-maker-100-days). It automatically creates the whole 100 days in a pretty form with a sort of a calendar with all the inline links done to jump instantly to any wanted day. I finished a little pokemon project on codeacademy to train myself with using classes.
+
+**Thoughts:** I am so happy I did this. I just woke up this morning and I knew I had to do this because it would first help me not to do all the calendar with the link to each day by hand, and then it could help other to instantly create the same log.md ! I'm so happy it took me only 1h to do something good enough and I already so new features I could implement in the future !
+
+**Link(s) to work**
+[Log maker for the 100 days of code challenge](https://github.com/MattiooFR/log-maker-100-days)
+
+[Back Top](#days)
