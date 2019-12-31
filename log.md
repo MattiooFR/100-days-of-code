@@ -172,3 +172,17 @@ I also found an error in my Udacity course and I've been trying options to fix i
 [Log maker for the 100 days of code challenge](https://github.com/MattiooFR/log-maker-100-days)
 
 [Back Top](#days)
+
+----
+### Day 10: December 31, 2019
+
+**Today's Progress**: I found out that if I want to install an older version of python with pyenv, I have a problem with openSSL lib. Homebrew is using the version 1.1 and it is not compatible with all python version. To make it work first I need to uninstall the faulting openSSL version with 'https://github.com/MattiooFR/log-maker-100-days' and then I can try again with pyenv install 3.4.0 and tadaaaa, it works.
+
+**Thoughts:** Installing an older version of python comes because someone got an error trying my lib and I suspect it is because I used the f-string that are only for python above 3.6. It makes me want to make my code compatible for the most, so I might change the f-string to regular "blabla".format() and prevent people for having to update their python to make it works (even if updating is kind of important people ! :p)
+
+**Link(s) to work**
+[Log maker for the 100 days of code challenge](https://github.com/MattiooFR/log-maker-100-days)
+
+[Back Top](#days)
+
+
