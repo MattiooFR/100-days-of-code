@@ -205,12 +205,12 @@ The parenthesis surrounding (n:=value)>test are important !
 ----
 ### Day 12: January, 02, 2020
 
-**Today's Progress**:
+**Today's Progress**: I finished a course on git (version control manager) and learned a few useful command like `git log --oneline`, all about the branchs and merging process and how to undo ou modify commits with `git commit --amend`, `git reset --mixed|soft|hard HEAD^1`. I worked for a few hours on my [log maker repo](https://github.com/MattiooFR/log-maker-100-days/) to add features suggested by others like choosing the duration, filename, using dateparser library to understand dates like `yesterday`. I did a course on deep learning and I slowly start to understand how it is working !
 
-**Thoughts:**
+**Thoughts:** I love git and I'm getting more and more used to it ! I'm so happy to see how my personnal project motivated someone to help me ! It makes it move fast !
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[Intro to Git](https://classroom.udacity.com/courses/ud123/)
 
 [Back Top](#days)
 
