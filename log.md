@@ -4,8 +4,7 @@
 
 I will code in **Python** programming language for at least an hour every day for the next 100 days.
 
-Start Date:  
-December 22, 2019.
+Start Date:  **December 22, 2019**
 End Date:  
 
 ----
@@ -25,16 +24,6 @@ End Date:
 
 [Or Jump Right To Conclusion!](#Conclusion)
 
-### Day : January 30, 2020
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link(s) to work**
-[Example](http://www.example.com)
-
-[Back Top](#days)
 
 ----
 ### Day 1: December, 22, 2019
@@ -217,12 +206,11 @@ The parenthesis surrounding (n:=value)>test are important !
 ----
 ### Day 13: January, 03, 2020
 
-**Today's Progress**:
+**Today's Progress**: I did my first merging from a pull request of my project [log maker repo] (https://github.com/MattiooFR/log-maker-100-days/). I fixed some bugs in the resulting code and updated the readme.
+I spend the rest of the day learning about deep learning. I learned the logistic regression model with gradial descent algorithm. I applied some of this knowledge to a partial built code and ran my first deep learning algorithm to classify red dots from blue dots.
 
-**Thoughts:**
+**Thoughts:** Accepting the pull request was an historical moment in my developper life ! As well as applying deeplearning in the prebuilt code was an historical moment for my deap learning programmer career ahah
 
-**Link(s) to work**
-[Example](http://www.example.com)
 
 [Back Top](#days)
 
