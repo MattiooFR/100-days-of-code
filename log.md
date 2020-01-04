@@ -217,12 +217,10 @@ I spend the rest of the day learning about deep learning. I learned the logistic
 ----
 ### Day 14: January, 04, 2020
 
-**Today's Progress**:
+**Today's Progress**: I finished the codeacademy course on git, it was about the commands for working in collaboration git fetch, git branch, git merge, git push. Continiuing my journey to become a deep learning programmer on udacity, I learned new models of neural networks with a sigmoid function, feedworward and backpropagation.
 
-**Thoughts:**
+**Thoughts:** Nothing special today
 
-**Link(s) to work**
-[Example](http://www.example.com)
 
 [Back Top](#days)
 
