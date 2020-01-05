@@ -227,7 +227,7 @@ I spend the rest of the day learning about deep learning. I learned the logistic
 ----
 ### Day 15: January, 05, 2020
 
-**Today's Progress**:
+**Today's Progress**: I solved the [raindrop](https://exercism.io/my/solutions/976b9d6316a94d929f8dcee9f9fee1f4) and [armstrong numbers](https://exercism.io/my/solutions/a4a80d70532c417e847b5081f4a9ff87) exercises, check them out they can be asked during interviews ! I did 1h of algebra solving on khanacademy.
 
 **Thoughts:**
 
