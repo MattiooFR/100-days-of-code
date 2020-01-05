@@ -227,12 +227,10 @@ I spend the rest of the day learning about deep learning. I learned the logistic
 ----
 ### Day 15: January, 05, 2020
 
-**Today's Progress**: I solved the [raindrop](https://exercism.io/my/solutions/976b9d6316a94d929f8dcee9f9fee1f4) and [armstrong numbers](https://exercism.io/my/solutions/a4a80d70532c417e847b5081f4a9ff87) exercises, check them out they can be asked during interviews ! I did 1h of algebra solving on khanacademy.
+**Today's Progress**: I solved the [raindrop](https://exercism.io/my/solutions/976b9d6316a94d929f8dcee9f9fee1f4) and [armstrong numbers](https://exercism.io/my/solutions/a4a80d70532c417e847b5081f4a9ff87) exercises, check them out they can be asked during interviews ! I did 1h of algebra solving on [khanacademy](https://www.khanacademy.org/math/algebra-basics) and 1h of [vector](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span?modal=1) course. I subscribed on [kaggle](kaggle.com), a data science challenges website ! I implemented code for Gradient Descent and calculating the error, the prediction y, and updating the weights of a neural networks. I also did some codeacademy course about List comprehension and Lambda function.
 
-**Thoughts:**
+**Thoughts:** I heard its good to practice yourself on kaggle (once you are good enough ofc), it can helps a lot for recognition and finding a job ! I went through a complex article about using [momentum](https://distill.pub/2017/momentum/) in deep learning and it really scared me how complex the mathematics can become ! But I'm more motivated than before to get better at all this ! Hurrayy
 
-**Link(s) to work**
-[Example](http://www.example.com)
 
 [Back Top](#days)
 
