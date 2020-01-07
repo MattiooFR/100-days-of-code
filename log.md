@@ -237,24 +237,19 @@ I spend the rest of the day learning about deep learning. I learned the logistic
 ----
 ### Day 16: January, 06, 2020
 
-**Today's Progress**:
+**Today's Progress**: I set up my VS code environment for web development, using ES lint and Prettier. I also decided to use Yarn and not NPM for using node js and the packages.
 
 **Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
 
 [Back Top](#days)
 
 ----
 ### Day 17: January, 07, 2020
 
-**Today's Progress**:
+**Today's Progress**: Quick update, I take a flight to Finland in 9 hours, where I will be staying for 3 month, full time learning to code !
+I still had the time this morning to do mathematics and deep learning course, nothing special...
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** Not much time today, I'm happy I woke up early so I could do enough stuff today ! Big travellign day tomorrow...
 
 [Back Top](#days)
 
