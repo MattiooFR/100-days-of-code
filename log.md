@@ -256,12 +256,9 @@ I still had the time this morning to do mathematics and deep learning course, no
 ----
 ### Day 18: January, 08, 2020
 
-**Today's Progress**:
+**Today's Progress**: I worked on my log generator project. I implemented a feature to generate the same log but in HTML.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** It was hard to find time today to be productive as I was moving from France to Finland and couldnt sleep only two hours this night, but I'm happy to see I still managed to implement something usefull !
 
 [Back Top](#days)
 
