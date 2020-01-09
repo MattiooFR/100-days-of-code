@@ -265,12 +265,12 @@ I still had the time this morning to do mathematics and deep learning course, no
 ----
 ### Day 19: January, 09, 2020
 
-**Today's Progress**:
+**Today's Progress**: Created a class TriangleRectangle that can calculate all sides lenght and angles from a TriangleRectangle, no matter how many are missing (with a limit obviously). It can also create a vector out of a triangle rectangle, and add or subtract with another one.
 
-**Thoughts:**
+**Thoughts:** I was doing some KhanAcademy exercises about vector, and one using trangle rectangle was annoying me so much that I decided to use python to create an algorithm that would calculate everything for me. It took me 5 hours but I finally did it ! YEAH
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[TriangleRectangle repo](https://github.com/MattiooFR/TriangleRectangle)
 
 [Back Top](#days)
 
