@@ -277,9 +277,9 @@ I still had the time this morning to do mathematics and deep learning course, no
 ----
 ### Day 20: January, 10, 2020
 
-**Today's Progress**:
+**Today's Progress**: I worked on my log manager project by fixing a commit from someone on the branch that will implement the feature to update a log that has missing days by removing and adding them at the end. I coded a bit of deep learning algorithm following my course. I solved some codewars exercises.
 
-**Thoughts:**
+**Thoughts:** I feel a bit overwhelmed by all the stuff I'm working on, I think I need to refocus a bit the next days.
 
 **Link(s) to work**
 [Example](http://www.example.com)
