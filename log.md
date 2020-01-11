@@ -281,20 +281,17 @@ I still had the time this morning to do mathematics and deep learning course, no
 
 **Thoughts:** I feel a bit overwhelmed by all the stuff I'm working on, I think I need to refocus a bit the next days.
 
-**Link(s) to work**
-[Example](http://www.example.com)
-
 [Back Top](#days)
 
 ----
 ### Day 21: January, 11, 2020
 
-**Today's Progress**:
+**Today's Progress**: After watching 3 hours of Stanford course on deep learning, I started and finished my first deep learning project of my udacity nanodegree. I also did some exercises with pandas library on codeacademy.
 
-**Thoughts:**
+**Thoughts:** I'm so happy I managed to finish the project in one day ! It was not too hard because lots of things were already done but well, I can see that I'm understanding more and more how those things work.
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[Stanford CS231n YouTube](https://www.youtube.com/watch?v=59Hbtz7XgjM&t=1126s)
 
 [Back Top](#days)
 
