@@ -298,12 +298,9 @@ I still had the time this morning to do mathematics and deep learning course, no
 ----
 ### Day 22: January, 12, 2020
 
-**Today's Progress**:
+**Today's Progress**: I got back on my Fun MOOC with some exercise and learning numpy and pandas. I didnt know about the command np.any and np.all. I find some interesting articles about deep learning, I also subscribed to great newsletter and found websites that share news about this are to start cultivate my knowledge.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** Numpy is super powerful, the vector calculus and things like np.sump(np > 0) are awesome !
 
 [Back Top](#days)
 
