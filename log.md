@@ -307,12 +307,11 @@ I still had the time this morning to do mathematics and deep learning course, no
 ----
 ### Day 23: January, 13, 2020
 
-**Today's Progress**:
+**Today's Progress**: Today was mostly about deep learning and learning numpy. I did a few online class and exercise with numpy. I spend the whole evening following my deep learning udacity course, doing a movie review classification project to predict if a review is a positive review or a negative review.
+The first idea was to compute the count of each words in a review and plug this as inputs for the neural network and train it by saying if the review with this list of words was positive, or negative. We could achieve a 65% positive prediction like this, but it is not enough. The second way to improve the learning is to look at the data. We saw that the biggest counted words were ' ', '.', 'the' and other words like this, whereas interesting words to predict positiveness or negativeness have only 1 count. By changing the input words by just 1 or 0 instead of the count, we jumped to 85% of positive prediction after 1 training.
+The next step to improve our neural network is to fasten the training process. We are removing useless calculation in the hidden layers, there is 72000 inputs so getting even small amount of speed makes a huge impact on the total speed.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I'm so happy to see another real application of neural networks that is working so well. I got stuck for a few hours on building the code for the neural network because it was much more empty than the previous project, but well, this is how you learn right !
 
 [Back Top](#days)
 
