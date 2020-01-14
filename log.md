@@ -318,12 +318,9 @@ The next step to improve our neural network is to fasten the training process. W
 ----
 ### Day 24: January, 14, 2020
 
-**Today's Progress**:
+**Today's Progress**: A few exercises on pandas library. Merged a branch dev by someonelse on master of my log generator project. I started working on handling the new update feature for html log but it felt too fuzzy here to start.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** Probably the day I worked the less efficiently ! I'm not happy today !
 
 [Back Top](#days)
 
