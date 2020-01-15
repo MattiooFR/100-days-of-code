@@ -327,12 +327,9 @@ The next step to improve our neural network is to fasten the training process. W
 ----
 ### Day 25: January, 15, 2020
 
-**Today's Progress**:
+**Today's Progress**: I finished the Sentiment Machine Learning Project, did some course on pandas on fun mooc and code academy.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I'm keeping on my different online course. I also downloaded a bunch of math books to catch up with my lacking in this area.
 
 [Back Top](#days)
 
