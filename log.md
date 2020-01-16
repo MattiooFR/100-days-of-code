@@ -336,12 +336,12 @@ The next step to improve our neural network is to fasten the training process. W
 ----
 ### Day 26: January, 16, 2020
 
-**Today's Progress**:
+**Today's Progress**: I started my course on pytorch on my Deep Learning nanodegree on Udacity. I also started a course on mathematics for Machine Learning on Coursera. It was about linear algebra. I finished the work for week 1 in one day. I finished the linear equation and graphs on Khan Academy. 
 
-**Thoughts:**
+**Thoughts:** I need to change the way I'm writting this log because I do it at the end of the day, and I realize that I am summarizing too much because I forgot the details. Pytorch seems really really interesting and easy to handle. Pytorch has all the tools of numpy and we just scratched the surface ! I'm surprise how I was good to answer all the quizz on the linear algebra course, seems I didnt forget that much since High School. I'm also continuing Khan Academy. I'm aiming to finish all the course in mathematics, starting from Algebra I so I'll build up solid fundations in math. I'm going to start reading a book on Mathematics called The Joy of X (not a porn book lol) written by Steven Strogatz. I also started an excel file where I'll write down every book, video, article, course that I do day by day to have a solid history of what took me from 0 to Data Scientist.
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[Mathematics for Machine Learning](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome)
 
 [Back Top](#days)
 
