@@ -348,12 +348,10 @@ The next step to improve our neural network is to fasten the training process. W
 ----
 ### Day 27: January, 17, 2020
 
-**Today's Progress**:
+**Today's Progress**: I'm doing some linear algebra classes. The dot product is vector(a) . vector(b) = ax x bx + ay x by ... or = ||vector(a)|| x cos(θ) x ||vector(b)||. I did exercises with scalar projection and vector projection. I continued in my deep learning nanodegree by learning how to use and create a neural network with Pytorch. The project we used with pytorch was about training a model to recognize number from 0 to 9. We used nn module of pytorch to easily create a model, update the hidden layers, and get the output. We used the optim module of pytorch to update the weights from the gradients calculated automatically from the autograd feature. 
 
-**Thoughts:**
+**Thoughts:** I want to strongly understand what a dot product, scalar and vector projections are. Took me a few hours but I think this is a concept I know well now. Pytorch seems awesome I have to say. It shorten the amount of code needed, and simplifies a lot what you need to know. I think its important to now the basic so you are able to be even better with tools that just makes your writing of code faster.
 
-**Link(s) to work**
-[Example](http://www.example.com)
 
 [Back Top](#days)
 
