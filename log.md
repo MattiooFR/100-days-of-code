@@ -358,12 +358,17 @@ The next step to improve our neural network is to fasten the training process. W
 ----
 ### Day 28: January, 18, 2020
 
-**Today's Progress**:
+**Today's Progress**: 
+- Deep learning nanodegree Udacity Course. We explored using training set and testing set with pytorch, using function to disable the gradient calculus during the testing part. We also discovered the Dropout technic to prevent overfitting our model.
+- Full Stack nanodegree Udacity Course. Some introduction about the course. They advise to have a background in front end and relational databse so I decided to start course on relational databse (because I dont have that background lol).
+- Free course on relational databse (SQL). Learned the basics of SQL with basics commands such as select from where group count, join, having, etc.
+- One [Regexcrossword](https://regexcrossword.com/) challenge
+- Learn how to fix mistake with git (working in wrong branch, bring master updates in another branch)
 
-**Thoughts:**
+**Thoughts:** I feel I pushed the challenge a bit much ahah. I commited to the Full Stack Nanodegree Udacity course yesterday because it was with 60% reduction. This is a skill I really want to develop as well, and their course was using python for the back end, I felt it was perfect for the situation ! Learning python for data science, deep learning with python, and web development with python. Well now it's too late, but I'm confident, the next 4 months are going to be very interesting ;)
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[Udacity Intro to Relational Database](https://classroom.udacity.com/courses/ud197)
 
 [Back Top](#days)
 
