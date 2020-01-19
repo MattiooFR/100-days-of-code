@@ -376,11 +376,17 @@ The next step to improve our neural network is to fasten the training process. W
 ### Day 29: January, 19, 2020
 
 **Today's Progress**:
+- Installed vagrant and virtualbox and fixed the bug that I had probably because the tutorial is old but now vragrant is up and working. I will be using this to continue my course on SQL.
+- Started and finished a course on BASH terminal to get the basics (that I mostly already had).
+- Working on a real data set from Kaggle to classify cats and dogs. We are using pre trained model on the ImageNet set (like resnet101 or densenet121) and update their criterion layer so we go from the 1000 output (it was trained on a dataset with 1000 different class) to only 2, classify cat vs dog. After training and updating the weights on the criterion with only one batch of image, the % of accuracy was already above 98%.
+- Started [SQL](https://www.sololearn.com/course/SQL/) course on SoloLearn (its a quick course)
+- I did some videos on exponentials, logarithms and statistics.
 
-**Thoughts:**
+**Thoughts:** Today was a good day, productive day for a sunday lol.
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[Bash Udacity Intro Course](https://classroom.udacity.com/courses/ud206)
+[SQL SoloLearn Course](https://www.sololearn.com/course/SQL/)
 
 [Back Top](#days)
 
