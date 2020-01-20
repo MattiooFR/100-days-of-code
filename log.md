@@ -341,7 +341,7 @@ The next step to improve our neural network is to fasten the training process. W
 **Thoughts:** I need to change the way I'm writting this log because I do it at the end of the day, and I realize that I am summarizing too much because I forgot the details. Pytorch seems really really interesting and easy to handle. Pytorch has all the tools of numpy and we just scratched the surface ! I'm surprise how I was good to answer all the quizz on the linear algebra course, seems I didnt forget that much since High School. I'm also continuing Khan Academy. I'm aiming to finish all the course in mathematics, starting from Algebra I so I'll build up solid fundations in math. I'm going to start reading a book on Mathematics called The Joy of X (not a porn book lol) written by Steven Strogatz. I also started an excel file where I'll write down every book, video, article, course that I do day by day to have a solid history of what took me from 0 to Data Scientist.
 
 **Link(s) to work**
-[Mathematics for Machine Learning](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome)
+- [Mathematics for Machine Learning](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome)
 
 [Back Top](#days)
 
@@ -368,7 +368,7 @@ The next step to improve our neural network is to fasten the training process. W
 **Thoughts:** I feel I pushed the challenge a bit much ahah. I commited to the Full Stack Nanodegree Udacity course yesterday because it was with 60% reduction. This is a skill I really want to develop as well, and their course was using python for the back end, I felt it was perfect for the situation ! Learning python for data science, deep learning with python, and web development with python. Well now it's too late, but I'm confident, the next 4 months are going to be very interesting ;)
 
 **Link(s) to work**
-[Udacity Intro to Relational Database](https://classroom.udacity.com/courses/ud197)
+- [Udacity Intro to Relational Database](https://classroom.udacity.com/courses/ud197)
 
 [Back Top](#days)
 
@@ -385,8 +385,8 @@ The next step to improve our neural network is to fasten the training process. W
 **Thoughts:** Today was a good day, productive day for a sunday lol.
 
 **Link(s) to work**
-[Bash Udacity Intro Course](https://classroom.udacity.com/courses/ud206)
-[SQL SoloLearn Course](https://www.sololearn.com/course/SQL/)
+- [Bash Udacity Intro Course](https://classroom.udacity.com/courses/ud206)
+- [SQL SoloLearn Course](https://www.sololearn.com/course/SQL/)
 
 [Back Top](#days)
 
@@ -394,6 +394,8 @@ The next step to improve our neural network is to fasten the training process. W
 ### Day 30: January, 20, 2020
 
 **Today's Progress**:
+- Finished week 3 of mathematics course on Coursera, took 1h exam on exponential, logarithm and continuous growth rate.
+- Starting course on CNN (Convolution Neural Networks) from my Deep Learning nanodegree Udacity course.
 
 **Thoughts:**
 
