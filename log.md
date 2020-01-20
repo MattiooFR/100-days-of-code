@@ -396,11 +396,15 @@ The next step to improve our neural network is to fasten the training process. W
 **Today's Progress**:
 - Finished week 3 of mathematics course on Coursera, took 1h exam on exponential, logarithm and continuous growth rate.
 - Starting course on CNN (Convolution Neural Networks) from my Deep Learning nanodegree Udacity course.
+- Starting The Odin Project in parallel with my Full Stack nanodegree Udacity Course.
+- I did some course on SQL, as I will need it for my Full Stack nanodegree.
 
-**Thoughts:**
+**Thoughts:** I was productive today, I feel that I know where I'm going but I'm a little bit in this rabbit hole of course that I need to end soon.
 
 **Link(s) to work**
-[Example](http://www.example.com)
+- [The Odin Project](https://www.theodinproject.com/)
+- [SQL for Data Analysis](https://classroom.udacity.com/courses/ud198)
+
 
 [Back Top](#days)
 
