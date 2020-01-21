@@ -398,6 +398,7 @@ The next step to improve our neural network is to fasten the training process. W
 - Starting course on CNN (Convolution Neural Networks) from my Deep Learning nanodegree Udacity course.
 - Starting The Odin Project in parallel with my Full Stack nanodegree Udacity Course.
 - I did some course on SQL, as I will need it for my Full Stack nanodegree.
+- I started FreeCodeCamp instead of The Odin Project because I mostly need to get better at front end. In the Odin Project they use Ruby and I don't want to start learning another syntax. Maybe in a few months I'll try that Odin Project, but not for now, I'll stick to Python, Deep Learning, HTML/CSS, Jinja2, Flask, Javascript, .. Wow, that's already a lot!
 
 **Thoughts:** I was productive today, I feel that I know where I'm going but I'm a little bit in this rabbit hole of course that I need to end soon.
 
