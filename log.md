@@ -412,11 +412,11 @@ The next step to improve our neural network is to fasten the training process. W
 ### Day 31: January, 21, 2020
 
 **Today's Progress**:
+- Did some mathematics on Khan Academy and a MOOC on coursera. Was learning stuff on probabilities.
+- Deep learning about Convolutional Neural Networks. Learning about Open CV to use filters on images.
+- Played with PostgreSQL with psycopg2 library using python.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I need to do much more of probabilities to get used to. Convolutional Neural Networks seems insaaaaaane ! And so easy to create with Pytorch. Tomorrow I have to build one completely, I'm really excited to do it !
 
 [Back Top](#days)
 
