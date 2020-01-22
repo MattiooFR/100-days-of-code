@@ -425,11 +425,14 @@ The next step to improve our neural network is to fasten the training process. W
 ### Day 32: January, 22, 2020
 
 **Today's Progress**:
+- Finished the [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills/) on coursera.
+- Played around with Convolutional Neural Networks.
+- Continued my course on SQL.
 
-**Thoughts:**
+**Thoughts:** It was awesome to discover so many thing about CNN (Convolutional Neural Networks) and application that derived from this. I strongly believe this is the beginning of mimicking how biology managed to interact with the environment through vision, audio, and the rest of the senses. I looked ahead to see the rest of my Udacity course and I have still a loooot to discover and watch so I better keep the rythm. I finished a course on mathematics ! I have difficulties to understand fully the probability so I really have to focus on this and find good content on that. I'm really happy to see some course I had started finally finishing, it gives me motivation when I see what I accomplish !
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[What neural net see](https://experiments.withgoogle.com/what-neural-nets-see)
 
 [Back Top](#days)
 
