@@ -439,12 +439,16 @@ The next step to improve our neural network is to fasten the training process. W
 ----
 ### Day 33: January, 23, 2020
 
-**Today's Progress**:
+**Today's Progress**: 
+- Math exercises on variance, and standard deviation.
+- Setup my AWS account
+- Did some FreeCodeCamp lessons on CSS
+- Some Python exercises on codeacademy
 
-**Thoughts:**
+**Thoughts:** Today I decided to reward myself for all the hardwork I did in the last 2 weeks so I went pretty chill. I watched an episode of a new TV show, "The New Pope"! I think it is important to reward yourself when you feel you accomplished something. I'm feeling 100% energized to start full on tomorrow :)
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[Trailer The New Pope](https://www.youtube.com/watch?v=TAOD50blOKk)
 
 [Back Top](#days)
 
