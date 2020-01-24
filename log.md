@@ -456,8 +456,11 @@ The next step to improve our neural network is to fasten the training process. W
 ### Day 34: January, 24, 2020
 
 **Today's Progress**:
+- Developped my vision about the AI sphere and future by listening to inspiring known figures of this area
+- Worked my mathematics on probabilities (with 23 person in the same room, the probability that two persons has the same birthday is already above 50% ! And with 46 persons its already 95%)
+- Kept on my Udacity Deep Learning Nano Degree program.
 
-**Thoughts:**
+**Thoughts:** Usual day, nothing special to say !
 
 **Link(s) to work**
 [Example](http://www.example.com)
