@@ -476,7 +476,7 @@ The next step to improve our neural network is to fasten the training process. W
 
 **Thoughts:** Today my girlfriend organized a ice skating trip with other friends that I could not miss, and indeed, it was fantastic, because of the cold temperature (-5 or less degrees celsius) the lakes arround are frozen enough to ice skate on it ! Short story we are living in Finland since 2 weeks because she has an internship of 3 months to do here and I followed her because of my fantastic freedom of working with my computer ! So the ice skating trip basically took us the whole day, and I'm feeling super exhausted right now, so I am commited of doing a minimum of work, but I will call it a day very soon and cras on the couch.. This actually feels good to reconnect to real life !
 
-![Ice Skating in Finland](https://github.com/MattiooFR/100-days-of-code/assets/ice_skating_finland.jpg "Ice Skating in Finland")
+![Ice Skating in Finland](/assets/ice_skating_finland.JPG)
 
 **Link(s) to work**
 [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2&t=0s)
