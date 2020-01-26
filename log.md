@@ -487,11 +487,9 @@ The next step to improve our neural network is to fasten the training process. W
 ### Day 36: January, 26, 2020
 
 **Today's Progress**:
+- I did my maths today, learning about probability and statistics as well along linear algebra.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I cant get out of that lack of energy and mild constant headaches that stops me from being productive.... I decided to reduce the amount of course I was doing to focus on what's important. I think I will try a new formula as well, course the week days, and projects coding the weekend. I really really need to get out of that tutorial purgatory.
 
 [Back Top](#days)
 
