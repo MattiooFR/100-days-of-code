@@ -497,11 +497,14 @@ The next step to improve our neural network is to fasten the training process. W
 ### Day 37: January, 27, 2020
 
 **Today's Progress**:
+- Deep Learning : Weights initialization in deep neural networks. The idea is to use a random centered normal distribution for the weight, to ensure unicity of each weights, the weights to be close to zero and depending on the size of the inputs for each  layers.
+- Deep Learning : Autoencoder. How to use neural network MLP architecture and CNN architecture to automatically compress and uncompress image. We use CNN to compress, and Transpose Convolutional Layer for decoding. I trained a network to reduce the MNIST dataset to only 25% size, and then reconstruct each images to a pretty accurate output image. By varying the technics we see differents types of output, with much or less noise/artifacts. The last exercise was to train the network with noisy images, and calculating the output with the image without noise. This way we trained a network to reduce noise from an image. Results are not fantastic but the technic do work.
+- Linear Algebra : Everytime we represent a vector, it depends on the basis that we use. When we add two vectors like <img src="https://i.upmath.me/svg/a%5Cvec%7Bv%7D%20%2B%20b%5Cvec%7Bw%7D" alt="\inline p={1\over q}" /> we say it is the linear combination of v and w and that they are linearly dependent if they are equal to a third vector <img src="https://i.upmath.me/svg/%5Cvec%7Bu%7D%3D%20a%5Cvec%7Bv%7D%2Bb%5Cvec%7Bw%7D" />. If they are not equal to a third vector <img src="https://i.upmath.me/svg/%5Cvec%7Bu%7D%5Cneq%20a%5Cvec%7Bv%7D%2Bb%5Cvec%7Bw%7D" /> then they are linearly independent. When we think of sets of vectors, we can represent only the points at the tip of the arrow. The span of lined up vectors is just a line, whereas the span of most pairs of vectors ends up to be the entire 2 dimensional flat sheet space.
 
-**Thoughts:**
+**Thoughts:** I feel I'm back on track, focusing on my nanodegrees that makes me practice with the projects. I got a nice project idea to do later, an AI that beats you at Tic Tac Toe!
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[How CNN work](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
 
 [Back Top](#days)
 
