@@ -529,7 +529,7 @@ The next step to improve our neural network is to fasten the training process. W
   \end{pmatrix}" />
 </p>
 
-  When you have multiple transformation, you can calculate the final one like this :
+    When you have multiple transformation, you can calculate the final one like this :
 
 <p align="center">
   <img src="https://tex.s2cms.ru/svg/%5Cunderbrace%7B%5Cbegin%7Bpmatrix%7D%0Aa%26b%5C%5C%0Ac%26d%5C%5C%0A%5Cend%7Bpmatrix%7D%7D_%5Ctext%7BM2%7D%0A%5Cunderbrace%7B%5Cbegin%7Bpmatrix%7D%0Ae%26f%5C%5C%0Ag%26h%5C%5C%0A%5Cend%7Bpmatrix%7D%7D_%5Ctext%7BM1%7D%20%3D%20%0A%5Cbegin%7Bpmatrix%7D%0Aae%2Bbg%26af%2Bbh%5C%5C%0Ace%2Bdg%26cf%2Bdh%5C%5C%0A%5Cend%7Bpmatrix%7D" alt="\underbrace{\begin{pmatrix}
@@ -546,7 +546,7 @@ The next step to improve our neural network is to fasten the training process. W
   \end{pmatrix}" />
 </p>
 
-  The order matters, as the order of the transformations matters as well.
+    The order matters, as the order of the transformations matters as well.
 
 - SQL : I learned that a Hash Table is a function that generates an index. Using a phone book is like using a hash table. When there are collisions, you can use a linked list to stack up the values at a given indexes.
 
