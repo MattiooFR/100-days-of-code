@@ -85,7 +85,7 @@ The scope resolution LEGB rule is important to know:
 * Built-in(B): Reserved names in Python builtin modules
 
 This creates a special case to be aware of :
-```
+```py
 a = 1
 class C:
   a = 3
@@ -110,7 +110,7 @@ Following the LEGB rule, there are no local `a` variable in the function f, ther
 
 **Today's Progress**: I am taking a quick GIT course on codeacademy so I can start tracking all my progress for my course projects on github. I am also doing a free course on Data Analyst to learn pandas and numpy python library as Udacity is recommending me for the Deep Learning nanodegree course. 
 Creating your own exception is very easy:
-```
+```py
 class MyOwnError(Exception):
   pass
 ```
@@ -166,7 +166,7 @@ I also found an error in my Udacity course and I've been trying options to fix i
 
 **Today's Progress**: I found out that if I want to install an older version of python with pyenv, I have a problem with openSSL lib. Homebrew is using the version 1.1 and it is not compatible with all python version. To make it work first I need to uninstall the faulting openSSL version with 'https://github.com/MattiooFR/log-maker-100-days' and then I can try again with pyenv install 3.4.0 and tadaaaa, it works.
 In python 3.8 you can use this new operator := called the walrus operator. It allows you to test and assign a value in the same line. Example :
-```
+```py
 if ((n:=len([1,2,3,4])) > 2):
   print(n) # it print 4
 ```
@@ -514,41 +514,94 @@ The next step to improve our neural network is to fasten the training process. W
 **Today's Progress**:
 - Linear transformations : The main idea is to look where the i and j vectors are located after a transformation, and use their new coordinates as a 2x2 matrix to find any new coordinates of any vector having the same transformation. 
 
-<p align="center">
-  <img src="https://tex.s2cms.ru/svg/%5Cbegin%7Bpmatrix%7D%0Aa%26b%5C%5C%0Ac%26d%5C%5C%0A%5Cend%7Bpmatrix%7D%0A%5Cbegin%7Bpmatrix%7D%0Ax%5C%5C%0Ay%5C%5C%0A%5Cend%7Bpmatrix%7D%20%3D%20%0A%5Cbegin%7Bpmatrix%7D%0Aax%2Bby%5C%5C%0Acx%2Bdy%5C%5C%0A%5Cend%7Bpmatrix%7D" alt="\begin{pmatrix}
-  a&amp;b\\
-  c&amp;d\\
-  \end{pmatrix}
-  \begin{pmatrix}
-  x\\
-  y\\
-  \end{pmatrix} = 
-  \begin{pmatrix}
-  ax+by\\
-  cx+dy\\
-  \end{pmatrix}" />
-</p>
+  <p align="center">
+    <img src="https://tex.s2cms.ru/svg/%5Cbegin%7Bpmatrix%7D%0Aa%26b%5C%5C%0Ac%26d%5C%5C%0A%5Cend%7Bpmatrix%7D%0A%5Cbegin%7Bpmatrix%7D%0Ax%5C%5C%0Ay%5C%5C%0A%5Cend%7Bpmatrix%7D%20%3D%20%0A%5Cbegin%7Bpmatrix%7D%0Aax%2Bby%5C%5C%0Acx%2Bdy%5C%5C%0A%5Cend%7Bpmatrix%7D" alt="\begin{pmatrix}
+    a&amp;b\\
+    c&amp;d\\
+    \end{pmatrix}
+    \begin{pmatrix}
+    x\\
+    y\\
+    \end{pmatrix} = 
+    \begin{pmatrix}
+    ax+by\\
+    cx+dy\\
+    \end{pmatrix}" />
+  </p>
 
- When you have multiple transformation, you can calculate the final one like this :
+  When you have multiple transformation, you can calculate the final one like this :
 
-<p align="center">
-  <img src="https://tex.s2cms.ru/svg/%5Cunderbrace%7B%5Cbegin%7Bpmatrix%7D%0Aa%26b%5C%5C%0Ac%26d%5C%5C%0A%5Cend%7Bpmatrix%7D%7D_%5Ctext%7BM2%7D%0A%5Cunderbrace%7B%5Cbegin%7Bpmatrix%7D%0Ae%26f%5C%5C%0Ag%26h%5C%5C%0A%5Cend%7Bpmatrix%7D%7D_%5Ctext%7BM1%7D%20%3D%20%0A%5Cbegin%7Bpmatrix%7D%0Aae%2Bbg%26af%2Bbh%5C%5C%0Ace%2Bdg%26cf%2Bdh%5C%5C%0A%5Cend%7Bpmatrix%7D" alt="\underbrace{\begin{pmatrix}
-  a&amp;b\\
-  c&amp;d\\
-  \end{pmatrix}}_\text{M2}
-  \underbrace{\begin{pmatrix}
-  e&amp;f\\
-  g&amp;h\\
-  \end{pmatrix}}_\text{M1} = 
-  \begin{pmatrix}
-  ae+bg&amp;af+bh\\
-  ce+dg&amp;cf+dh\\
-  \end{pmatrix}" />
-</p>
+  <p align="center">
+    <img src="https://tex.s2cms.ru/svg/%5Cunderbrace%7B%5Cbegin%7Bpmatrix%7D%0Aa%26b%5C%5C%0Ac%26d%5C%5C%0A%5Cend%7Bpmatrix%7D%7D_%5Ctext%7BM2%7D%0A%5Cunderbrace%7B%5Cbegin%7Bpmatrix%7D%0Ae%26f%5C%5C%0Ag%26h%5C%5C%0A%5Cend%7Bpmatrix%7D%7D_%5Ctext%7BM1%7D%20%3D%20%0A%5Cbegin%7Bpmatrix%7D%0Aae%2Bbg%26af%2Bbh%5C%5C%0Ace%2Bdg%26cf%2Bdh%5C%5C%0A%5Cend%7Bpmatrix%7D" alt="\underbrace{\begin{pmatrix}
+    a&amp;b\\
+    c&amp;d\\
+    \end{pmatrix}}_\text{M2}
+    \underbrace{\begin{pmatrix}
+    e&amp;f\\
+    g&amp;h\\
+    \end{pmatrix}}_\text{M1} = 
+    \begin{pmatrix}
+    ae+bg&amp;af+bh\\
+    ce+dg&amp;cf+dh\\
+    \end{pmatrix}" />
+  </p>
 
- The order matters, as the order of the transformations matters as well.
+  The order matters, as the order of the transformations matters as well.
 
-- SQL : I learned that a Hash Table is a function that generates an index. Using a phone book is like using a hash table. When there are collisions, you can use a linked list to stack up the values at a given indexes.
+- SQL : I learned that a Hash Table is a function that generates an index. Using a phone book is like using a hash table. When there are collisions, you can use a linked list to stack up the values at a given indexes. I spend a few hours learning about psycopg2. It is a library playing the role of a database adapter. This allows us to write code in python and execute queries to update a database, and get data from it.
+
+- HTML : I went through a bunch of lessons in Solo Learn.
+- Linked List : I learned what a linked list is and how to implement it in Python with code academy.
+
+```py
+class Node:
+  def __init__(self, value, next_node=None):
+    self.value = value
+    self.next_node = next_node
+    
+  def get_value(self):
+    return self.value
+  
+  def get_next_node(self):
+    return self.next_node
+  
+  def set_next_node(self, next_node):
+    self.next_node = next_node
+
+class LinkedList:
+  def __init__(self, value=None):
+    self.head_node = Node(value)
+  
+  def get_head_node(self):
+    return self.head_node
+  
+  def insert_beginning(self, new_value):
+    new_node = Node(new_value)
+    new_node.set_next_node(self.head_node)
+    self.head_node = new_node
+    
+  def stringify_list(self):
+    string_list = ""
+    current_node = self.get_head_node()
+    while current_node:
+      if current_node.get_value() != None:
+        string_list += str(current_node.get_value()) + "\n"
+      current_node = current_node.get_next_node()
+    return string_list
+  
+  def remove_node(self, value_to_remove):
+    current_node = self.get_head_node()
+    if current_node.get_value() == value_to_remove:
+      self.head_node = current_node.get_next_node()
+    else:
+      while current_node:
+        next_node = current_node.get_next_node()
+        if next_node.get_value() == value_to_remove:
+          current_node.set_next_node(next_node.get_next_node())
+          current_node = None
+        else:
+          current_node = next_node
+```
 
 **Thoughts:**
 
