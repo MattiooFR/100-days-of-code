@@ -512,6 +512,35 @@ The next step to improve our neural network is to fasten the training process. W
 ### Day 38: January, 28, 2020
 
 **Today's Progress**:
+- Linear transformations : The main idea is to look where the i and j vectors are located after a transformation, and use their new coordinates as a 2x2 matrix to find any new coordinates of any vector having the same transformation. 
+
+<img src="https://tex.s2cms.ru/svg/%5Cbegin%7Bpmatrix%7D%0Aa%26b%5C%5C%0Ac%26d%5C%5C%0A%5Cend%7Bpmatrix%7D%0A%5Cbegin%7Bpmatrix%7D%0Ax%5C%5C%0Ay%5C%5C%0A%5Cend%7Bpmatrix%7D%20%3D%20%0A%5Cbegin%7Bpmatrix%7D%0Aax%2Bby%5C%5C%0Acx%2Bdy%5C%5C%0A%5Cend%7Bpmatrix%7D" alt="\begin{pmatrix}
+a&amp;b\\
+c&amp;d\\
+\end{pmatrix}
+\begin{pmatrix}
+x\\
+y\\
+\end{pmatrix} = 
+\begin{pmatrix}
+ax+by\\
+cx+dy\\
+\end{pmatrix}" />
+
+When you have multiple transformation, you can calculate the final one like this :
+
+<img src="https://tex.s2cms.ru/svg/%5Cunderbrace%7B%5Cbegin%7Bpmatrix%7D%0Aa%26b%5C%5C%0Ac%26d%5C%5C%0A%5Cend%7Bpmatrix%7D%7D_%5Ctext%7BM2%7D%0A%5Cunderbrace%7B%5Cbegin%7Bpmatrix%7D%0Ae%26f%5C%5C%0Ag%26h%5C%5C%0A%5Cend%7Bpmatrix%7D%7D_%5Ctext%7BM1%7D%20%3D%20%0A%5Cbegin%7Bpmatrix%7D%0Aae%2Bbg%26af%2Bbh%5C%5C%0Ace%2Bdg%26cf%2Bdh%5C%5C%0A%5Cend%7Bpmatrix%7D" alt="\underbrace{\begin{pmatrix}
+a&amp;b\\
+c&amp;d\\
+\end{pmatrix}}_\text{M2}
+\underbrace{\begin{pmatrix}
+e&amp;f\\
+g&amp;h\\
+\end{pmatrix}}_\text{M1} = 
+\begin{pmatrix}
+ae+bg&amp;af+bh\\
+ce+dg&amp;cf+dh\\
+\end{pmatrix}" />
 
 **Thoughts:**
 
