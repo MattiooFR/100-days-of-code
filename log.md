@@ -603,10 +603,7 @@ class LinkedList:
           current_node = next_node
 ```
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I'm really happy of the efforts I provided today. I was a bit late on my Full Stack Nanodegrees and I catch up that time ! I really like to do clean latex maths rendering on my log !
 
 [Back Top](#days)
 
@@ -614,11 +611,11 @@ class LinkedList:
 ### Day 39: January, 29, 2020
 
 **Today's Progress**:
+- Full Deep Learning day today. I spend the whole afternoon learning about Style Transferring algorithm. I learned that the content of an image is learned in the deep layers of a network and the style of an image is learned in the first conv layer after each max pooling layer, and preferably the first layers. The idea is to extract the Style from a photograph and the Content from another photo, calculate a total loss with those two pictures and compare it to the target content picture to tell the Neural Network how far the target content is far from the mix of style and content. Using backprop on the target output image the network will modify it to reduce the loss and therefore change the image to make it more look like the mix of style and content calculated in the loss. After a long enough repetition of this process we can achieve very good looking result like these :
 
-**Thoughts:**
+<img src="/assets/style-transfer-example.jpg" alt="Style Transfer Example" height="50%" width="50%">
 
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I wanted to finish all my Deep Learning course left until my next Udacity project, which I did. I took time to read what I need to do in this next project, and I could feel myself afraid because most of it was empty, almost from scratch ! I know it will be hard, but I also know its the best way to learn and become good, so no excuse ! I have 8 days until the date I need to upload my finished project so I think it will be all right !
 
 [Back Top](#days)
 
