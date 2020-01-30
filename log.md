@@ -475,9 +475,10 @@ The next step to improve our neural network is to fasten the training process. W
 - Linear lessons on the 3Blue1Brown amazing youtube channel!
 
 **Thoughts:** Today my girlfriend organized a ice skating trip with other friends that I could not miss, and indeed, it was fantastic, because of the cold temperature (-5 or less degrees celsius) the lakes arround are frozen enough to ice skate on it ! Short story we are living in Finland since 2 weeks because she has an internship of 3 months to do here and I followed her because of my fantastic freedom of working with my computer ! So the ice skating trip basically took us the whole day, and I'm feeling super exhausted right now, so I am commited of doing a minimum of work, but I will call it a day very soon and cras on the couch.. This actually feels good to reconnect to real life !
-
-![Ice Skating in Finland](/assets/ice_skating_finland.JPG)
-
+  <p align=center>
+    <img src="/assets/ice_skating_finland.JPG" alt="Ice skating in Finland" height="50%" width="50%">
+  </p>
+  
 **Link(s) to work**
 [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2&t=0s)
 
@@ -612,8 +613,9 @@ class LinkedList:
 
 **Today's Progress**:
 - Full Deep Learning day today. I spend the whole afternoon learning about Style Transferring algorithm. I learned that the content of an image is learned in the deep layers of a network and the style of an image is learned in the first conv layer after each max pooling layer, and preferably the first layers. The idea is to extract the Style from a photograph and the Content from another photo, calculate a total loss with those two pictures and compare it to the target content picture to tell the Neural Network how far the target content is far from the mix of style and content. Using backprop on the target output image the network will modify it to reduce the loss and therefore change the image to make it more look like the mix of style and content calculated in the loss. After a long enough repetition of this process we can achieve very good looking result like these :
-
-<img src="/assets/style-transfer-example.jpg" alt="Style Transfer Example" height="50%" width="50%">
+  <p align=center>
+    <img src="/assets/style-transfer-example.jpg" alt="Style Transfer Example" height="50%" width="50%">
+  </p>
 
 **Thoughts:** I wanted to finish all my Deep Learning course left until my next Udacity project, which I did. I took time to read what I need to do in this next project, and I could feel myself afraid because most of it was empty, almost from scratch ! I know it will be hard, but I also know its the best way to learn and become good, so no excuse ! I have 8 days until the date I need to upload my finished project so I think it will be all right !
 
