@@ -625,11 +625,11 @@ class LinkedList:
 ### Day 40: January, 30, 2020
 
 **Today's Progress**:
+- Starting the day with some Linear Algebra yihaaa. I understood pretty well the idea of Matrix determinant, and linear system of equations. Reminded me a lot high school!
+- I finished the HTML Fundamentals course on SoloLearn. 
+- Python Full Stack Nano Degree, we built a small hello world app using Flask to get to know the code. I also learned SQLAlchemy and the abstraction it provides for using SQL. I can't wait to get my hands in this (no dirty joke).
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** SoloLearn is really easy but gives a quick insight as it is quite fast to do it. I like the direction my full stack course is taking, I think the content I will learn will be very valuable and help me to realise good project using Python I have in head.
 
 [Back Top](#days)
 
