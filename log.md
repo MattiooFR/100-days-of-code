@@ -637,11 +637,18 @@ class LinkedList:
 ### Day 41: January, 31, 2020
 
 **Today's Progress**:
+- Dog breed classification project : Alright, first day that I'm working on this second Udacity Deep Learning Nano Degree project! I spent a few hours on testing the accuracy of different technics for face detection. OpenCV does a very good job on human's faces, but it also detects faces on dogs (27% in my tests). I also tried with VGG16 conv net pretrained on the ImageNet dataset restraining only to the different dogs breed. I obtain 100% accuracy detecting dogs and 0% on humans so no false positive. With ResNet18 it goes even faster to process and same results. 
+
+- Linear Algebra : I watched a video talking about dot products.
+
+- MITx: 6.00.1x : Introduction to Computer Science and Programming Using Python
 
 **Thoughts:**
+I love starting this project and building pretrained CNN! Tomorrow I'll start building my own CNN to learn and classify dogs breed! That will be a real challenge !
+I started this MITx course only because of the certification and refreshing my python knowledge as well. I want to have a MIT certification ahah. It's the first certification I bought on EdX by the way !
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[MITx: 6.00.1x](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+1T2020/)
 
 [Back Top](#days)
 
