@@ -656,11 +656,11 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 42: February, 01, 2020
 
 **Today's Progress**:
+- Mathematics : Learned the cross product today !
+- MITx 6.00.1x : Finished Unit 2 with not much difficulty.
+- MITx 6.431x : Started Probability - The science of uncertainty and data. Halfway through unit 1
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** Nothing special today, I was enjoying my saturday mostly !
 
 [Back Top](#days)
 
