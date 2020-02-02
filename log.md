@@ -668,11 +668,9 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 43: February, 02, 2020
 
 **Today's Progress**:
+- Deep Learning Nanodegree : I worked on my Dog Breed Classifier project. I defined the dataset and dataloader. I also reflected on the architecture of the model and started from the AlexNet CNN architecture.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** It was difficult but teaching to work on this project. I still struggle to find how to create an architecture from scratch and set all the parameters.
 
 [Back Top](#days)
 
