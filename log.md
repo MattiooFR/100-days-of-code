@@ -678,11 +678,11 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 44: February, 03, 2020
 
 **Today's Progress**:
+- Deep Learning Nanodegree : I almost finished my Dog Breed Classifier project, I solved the problem I had on building my model from scratch by increasing the deepness of the Convolutional Layers. 
+- MITx 6.431x : I finished the first series of video, tomorrow I need to finish everything else, especially the exercises that are due for the 5th of febrary.
+- Some Fundamental Algebra on Brilliant
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** My issue on the Deep Learning project now is to use Transfer Learning to start from a better model and change the output to match my 133 dog breed different outputs. I could not figure why the loss was not decreasing during training. 
 
 [Back Top](#days)
 
