@@ -690,11 +690,10 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 45: February, 04, 2020
 
 **Today's Progress**:
+- MITx 6.431x : I did the mathematic background series. It was about sets properties, geometric series, countable and uncountable sets. I finished all the due exercises for the week.
+- Full Stack : I applied SQL alchemy with a Flask Application.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I'm happy I caught up my delay in the 6.431 course. I also did a bit of the Full Stack course. I think tomorrow I will focus on continuing the Full Stack class in the morning, and then finishing my dog breed classifier project in the afternoon. If I still have time after that I will do a bit of both course on edX. Flask looks awesome by the way ! I dont know how I waited so long to learn about SQL too !
 
 [Back Top](#days)
 
