@@ -701,8 +701,11 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 46: February, 05, 2020
 
 **Today's Progress**:
+- Deep Learning Nanodegree : I finished my Dog Breed Classifier project and submitted it. I also submitted the GitHub profile project as I saw that it was already meeting all the expectations ! Two projects in a single day yeahh.
+- Mathematics : I did a bit of mathematics lessons on Khan Academy.
+- Full Stack Nanodegree : I spent the whole morning on the Full Stack nanodegree and learned a lot about using SQLAlchemy, Fetch and Flask together to build a Todo list project.
 
-**Thoughts:**
+**Thoughts:** My project was reviewed and accepted on the first try I'm really happy ! 
 
 **Link(s) to work**
 [Example](http://www.example.com)
