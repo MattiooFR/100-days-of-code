@@ -716,11 +716,10 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 47: February, 06, 2020
 
 **Today's Progress**:
+- Mathematics : Learned how to calculate the limit of functions. 
+- MITx: 6.00.1x : I finished the unit 3 (about floats and few exercises that were quite easy). I also finished the unit 4 that was about function and recursivity. Always good to refresh and practice those skills.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** My second project about my github profile was reviewed and accepted too. I got the advice to be a bit more active on github if I can, and I will try to look at open source projects and see if I can give it a hand.
 
 [Back Top](#days)
 
