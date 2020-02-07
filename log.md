@@ -727,11 +727,11 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 48: February, 07, 2020
 
 **Today's Progress**:
+- MITx: 6.00.1x : I finished week 3 of the Python course.
+- MITx 6.431x : I did half of the Week 2, planning on finishing tomorrow. Learned a lot about more usefull applications of the probability !
+- Deep Learning Nanodegree : The course of today was about using deep learning in the sphere of medecine. The result of a deep neural network are really good at finding skin cancers for example, even better than humans ! Tomorrow I'll try to build my own neural network and train it against the skin cancer dataset.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** Lots of Python and Mathematics today. We are starting to dive in the Bayes Theorem and I think I understand ahah ! I also discovered that Deep Learning are now doing better than doctor at finding skin cancer, I am so amazed by what the future will become!
 
 [Back Top](#days)
 
