@@ -739,11 +739,10 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 49: February, 08, 2020
 
 **Today's Progress**:
+- MITx 6.431x : Almost finished the Week 2.
+- Full Stack Flask Nano Degreee :  Learning how to use migrations to handle changes in our database models in Flask.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** Nothing special today, I feel I'm getting ahead of most of the course I'm happy, I'll try to keep the rhythm and finish them earlier.
 
 [Back Top](#days)
 
