@@ -750,11 +750,11 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 50: February, 09, 2020
 
 **Today's Progress**:
+- MITx 6.00.1x : I did half of the week 3.
+- Full Stack Flask Nano Degree : Learned about Updating and Deleting stuff with Flask Alchemy in a ToDo webapp.
+- Coursera Git : Learned more about using remote branch in git.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I spent the morning having fun outside doing a snowman with my girlfriend. Decided to take it easy for a sunday !
 
 [Back Top](#days)
 
