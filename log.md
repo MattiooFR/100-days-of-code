@@ -762,11 +762,10 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 51: February, 10, 2020
 
 **Today's Progress**:
+- MITx 6.00.1x : Went through dictionaries data structured. Finished the week 3 and succeeded in building the HangMan week 3 assignment.
+- MITx 6.431x : Started the Unit 3 and learned what combinations and permutations are.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** Worked mostly in the morning but I failed for the afternoon, I need to watch out and be more productive for the rest of the week !
 
 [Back Top](#days)
 
