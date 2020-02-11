@@ -773,11 +773,11 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 52: February, 11, 2020
 
 **Today's Progress**:
+- Full Stack Nano Degree : Finished the course about Flask, SQLAlchemy, flask-sqlalchemy, migration, SQL... and now it is Fyyur project time ! 
+- Mathematics : Derivative course on Khan Academy.
+- Deep Learning Nano Degree : Finished the github section and started the new section about Recurrent Neural Networks.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I have 7 days to submit the Fyyur project and it seems super duper hard !! I will have to get my hands on this for hours I think, busy week incoming !
 
 [Back Top](#days)
 
