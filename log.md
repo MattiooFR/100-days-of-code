@@ -785,11 +785,10 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 53: February, 12, 2020
 
 **Today's Progress**:
+- Full Stack : Struggle starting with the project, tomorrow will be a better day !
+- Mathematic : Still on my way to get better at algebra and calculus.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I was mostly occupied with trading today so it was difficult focusing on other things.
 
 [Back Top](#days)
 
@@ -797,11 +796,10 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 54: February, 13, 2020
 
 **Today's Progress**:
+- Mathematic : Learned basics of Derivative and did a few exercises on calculating the tangent line. Always good to start from the roots !
+- Full Stack : I finally made something work ! I could create the artist, venue and show models in the database. With the help of google and Knowledge on Udacity I also found how to use the view to create real artist and venus data and send them to the database.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** Today was a bit better, especially tonight when I closed all other tabs and focused on deep learning.
 
 [Back Top](#days)
 
@@ -809,11 +807,10 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 55: February, 14, 2020
 
 **Today's Progress**:
+- Deep Learning Nano Degree : Today was all about LSTM cells for Recurrent Neural Network. It is a concept that I find understanding well, lets see when time of practice will come :p
+- Full Stack Nano Degree : Worked on the project a little bit.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I completely lost my rhythm of work this week ! I have to get it back next week !
 
 [Back Top](#days)
 
