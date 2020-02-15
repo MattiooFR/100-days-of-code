@@ -818,8 +818,9 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 56: February, 15, 2020
 
 **Today's Progress**:
+- Full Stack Nano Degree : I finished the first project.
 
-**Thoughts:**
+**Thoughts:** The first project I had to do in the full stack nano degree was very hard ! It took me a lot of time and googling to be able to finish it !
 
 **Link(s) to work**
 [Example](http://www.example.com)
