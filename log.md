@@ -822,20 +822,16 @@ I started this MITx course only because of the certification and refreshing my p
 
 **Thoughts:** The first project I had to do in the full stack nano degree was very hard ! It took me a lot of time and googling to be able to finish it !
 
-**Link(s) to work**
-[Example](http://www.example.com)
-
 [Back Top](#days)
 
 ----
 ### Day 57: February, 16, 2020
 
 **Today's Progress**:
+- MITx 6.431x :  Finished unit 3 and problem set 3.
+- Mathematics : I took time to find the appropriate way and ressources to learn mathematics.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I see that I was learning mathematics the wrong way. I really need to practice more, and take time to fully understand the concept before moving on or I'm heading to failing ...
 
 [Back Top](#days)
 
