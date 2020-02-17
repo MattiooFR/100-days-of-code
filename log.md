@@ -839,11 +839,16 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 58: February, 17, 2020
 
 **Today's Progress**:
+- Mathematics : Finished halfway through the pre-algebra section, reaching level 4 everywhere. I also started doing all the videos from this website, [ilectureonline](http://www.ilectureonline.com/).
+- Full Stack Udacity : I updated my project as I forgot to use a join query. I also changed the way the creating and editing route were done. Now if a validator was throwing an error on the form, it doesnt reset the form and the values stay there. And when we edit an artist or a venue, the form is getting populated by.
 
-**Thoughts:**
+**Thoughts:** I decided to start math all over from the begining. Using brilliant to develop my intuition, using khan academy as a more formal lessons provider and great source of exercises, and the [ilectureonline](http://www.ilectureonline.com/) for the amazing teacher he is and get another point of view. I know it is a big task but I really want to build up my mathematic foundation before trying to get to more advanced topics too quickly. I am also starting building a Anki deck on my own to force myself to summarize with my own words.
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[ilectureonline](http://www.ilectureonline.com/)
+[Brilliant](http://brilliant.com)
+[KhanAcademy](https://www.khanacademy.org/)
+[Anki](https://apps.ankiweb.net/)
 
 [Back Top](#days)
 
