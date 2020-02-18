@@ -858,11 +858,9 @@ I started this MITx course only because of the certification and refreshing my p
 **Today's Progress**:
 - Mathematics : Almost finished the pre-algebra and arithmetic section on KhanAcademy.
 - MITx 6.431x : I started the Unit 4 on Discrete Random Variable.
+- Deep Learning Udacity : Started playing around with RNN.
 
 **Thoughts:** I'm happy to see that my foundation are actually quite OK, I think I just need to consolidate some of the high school stuff but I should be able to quickly move on post graduate mathematics level. I am also writing down in a pages document on my own words what I understand from mathematics concept I didnt know, or not clearly enough. This way I also practice my skills on latex for mathematics expressions. 
-
-**Link(s) to work**
-[Example](http://www.example.com)
 
 [Back Top](#days)
 
