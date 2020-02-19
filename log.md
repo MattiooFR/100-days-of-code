@@ -868,6 +868,12 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 60: February, 19, 2020
 
 **Today's Progress**:
+- MITx 6.431x : Almost finished the lecture 5 of the unit 4. I'm going slower because now I'm really trying to understand every concept before going forward. Makes sense I know! Today was about Probability Mass Function
+  <p align=center>
+    <img src="/assets/PMF.jpg" alt="Probability Mass Function" height="50%" width="50%">
+  </p>
+- Deep Learning Udacity : Realised a RNN with LSTM cells that learn from a book and then generate text, character by character.
+- Full Stack Udacity : Did a bit on the API lesson part. I learned the HTTP different Status Code and how to set up a basic Flask application. I also learned how to used Chrome Dev Tool and the lib curl to debug web application.
 
 **Thoughts:**
 
