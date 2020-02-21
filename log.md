@@ -870,7 +870,7 @@ I started this MITx course only because of the certification and refreshing my p
 **Today's Progress**:
 - MITx 6.431x : Almost finished the lecture 5 of the unit 4. I'm going slower because now I'm really trying to understand every concept before going forward. Makes sense I know! Today was about Probability Mass Function
   <p align=center>
-    <img src="/assets/PMF.jpg" alt="Probability Mass Function" height="50%" width="50%">
+    <img src="/assets/PMF.jpg" alt="Probability Mass Function" height="70%" width="70%">
   </p>
 - Deep Learning Udacity : Realised a RNN with LSTM cells that learn from a book and then generate text, character by character.
 - Full Stack Udacity : Did a bit on the API lesson part. I learned the HTTP different Status Code and how to set up a basic Flask application. I also learned how to used Chrome Dev Tool and the lib curl to debug web application.
@@ -886,11 +886,19 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 61: February, 20, 2020
 
 **Today's Progress**:
+- Productivity: Today was the day I spent looking for productivity and learning methods. I decided to implement more tools that will help me in my learning process. Active recall and spaced repetition are key in learning. As well as a good organisation and note taking. I will slowly shift my trello board to the app Notion, and try to make my note summary on this too. I need to experiment now and see how each tools can fit my needs. I also installed the app Readwise that automatically sync my kindle and articles highlights. I can then create flashcard with those highlights in a Anki way ! Talking about Anki, I was already using this to learn the countries, their flag, their capital, and their world localisation. The app Instapaper is also cool, you can automatically save article, website, things to read but later, and then either read it on the web app, or make it sent to your kindle so you can read it in a different way. If you highlight things in Instapaper, Readwise can also get automatically Now I want to slowly get use to the Anki too and create my own decks about my learning. That was a lot in a day, now it will take me time to process all that info and make it happens ! :)
+- Math : I advance in my MITx math course.
 
-**Thoughts:**
+**Thoughts:** I feel I'm losing a lot of time recently in research on the net. I kind of actively procrastinate, I know it ! But at least I'm happy that my procrastination was to learn how to improve my learning, now I just need to implement it. Better say than done ahah !
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[Instapaper](https://www.instapaper.com/)
+[Readwise](https://readwise.io/)
+[Notion](https://www.notion.so/?r=a6590125326e4b2db1e44bc1a2cb04b5)
+[BetterTouchTool](https://folivora.ai/)
+[Alfred](https://www.alfredapp.com/)
+[Texpad](https://www.texpad.com/)
+[ForestApp](https://www.forestapp.cc/)
 
 [Back Top](#days)
 
@@ -898,11 +906,10 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 62: February, 21, 2020
 
 **Today's Progress**:
+- MITx 6.431x : Variance (measure of the spread of a PMF) and Expection in random variable experiments. We talked about the linearity of the expectation and the nonlinearity of the variance. We developped the variance in Bernoulli and uniform experiment. Later on we started the topic of Conditional PMF and expectation given an event. If events are independants it has some nice properties to play around.
+-MITx 6.00.1x :  I finished the last course unit and I need to do the last problem set now. I'm ahead of the program, I like this feeling ! I need to keep this up.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I basically learnt that yes, if 10 red went out on the roulette game, well, the probability remains exactly the same, slightly less than one half so playing black wont make you luckier ! I already knew that, but it is nice to see the mathematical demonstration ! My python exams has started, I think I'm going to do it tomorrow. I don't really need to prepare as through all the lecture I was pretty confident and having very few difficulties ! My probability exams has also already started but I need to finish first the Unit 4, I'm a little bit late, but I have until the 5 of march to do the exam so everything is fine. I need to catch up on Udacity for the deep learning now... Ahhhh living on the edge ahah
 
 [Back Top](#days)
 
