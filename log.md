@@ -917,11 +917,14 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 63: February, 22, 2020
 
 **Today's Progress**:
+- MIT 6.00.1x : Passed my Python exam uite easily, got 95% of correct marks in one hour.
+- Anki : Downloaded a bunch of addons.
+- Udacity Deep Learning : We implemented the Word2Vec using the skip gram model.
 
-**Thoughts:**
+**Thoughts:** I'm really happy to see how my Python exam went, it makes me confident I did the right thing by starting learnibg python in October.
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[Word2Vec Tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
 [Back Top](#days)
 
@@ -929,11 +932,10 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 64: February, 23, 2020
 
 **Today's Progress**:
+- Udacity Deep Learning : Building a Sentiment RNN model for movie reviews.
+- MITx 6.431x : Finished unit 6
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** It's exciting to see differents applications of neural networks !
 
 [Back Top](#days)
 
