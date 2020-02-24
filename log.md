@@ -943,11 +943,10 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 65: February, 24, 2020
 
 **Today's Progress**:
+- Udacity Deep Learning : Finished the third project of creating a TV show script generator using an RNN model and one embedding layer.
+- MITx 6.431x : Finished unit 7.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I am so happy to see I could finish the Udacity Project in one day and it went actually quite smooth ! I didnt encounter big big difficulties and I just applied my knowledge, some previous code of course and just active reflection. Cant wait to go next and learn what **Attention** is as I know it is becoming a huge thing in the Deep Learning sphere nowadays !
 
 [Back Top](#days)
 
