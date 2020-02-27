@@ -954,11 +954,12 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 66: February, 25, 2020
 
 **Today's Progress**:
+Mathematics in the morning and python in the afternoon. I also started creating flash card with Anki.
 
-**Thoughts:**
+**Thoughts:** I'm so happy I spent time on how to efficively improve my learning workflow and I'm falling in love with Anki ! That thing is to powerfull ! The action of creating your own card is far more effective than using a deck made by someone else.
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[ANKI](https://ankiweb.net/)
 
 [Back Top](#days)
 
@@ -966,11 +967,9 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 67: February, 26, 2020
 
 **Today's Progress**:
+- Udacity Full Stack : I learned how to use Flask-cors, how to handle HTTP error using @app.errorhandler and the good practice for making endpoint in an API.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** The knowledge I'm getting from the Udacity Full Stack nanodegree is so valuable ! I feel like doing website really soon !
 
 [Back Top](#days)
 
@@ -978,8 +977,11 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 68: February, 27, 2020
 
 **Today's Progress**:
+- MITx 6.00.1x : Finished unit 5 about Oriented Object programming in Python. Learning classes.
+- MITx 6.431x : Finished the problem set 4 and started the first Exam. I did two exercises out of 6.
+- Udacity Deep Learning : Finished the section about the attention mechanisem. We studied the multiplicative and additive attention. We also went through the paper of Attention is all you need from Google that is using a network with only attention and feed forward network, removing all RNNs.
 
-**Thoughts:**
+**Thoughts:** Today was a productive day. I'm afraid that the level of MITx will start to rise and accelerate, but I'll do everything to go through it successfuly ! I'm so happy that I learned a bit more how Attention works in deep learning as it is one of the last mains achievement in this sphere. I can't wait to implement some algorithm !
 
 **Link(s) to work**
 [Example](http://www.example.com)
