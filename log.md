@@ -992,11 +992,11 @@ Mathematics in the morning and python in the afternoon. I also started creating 
 ### Day 69: February, 28, 2020
 
 **Today's Progress**:
+- MITX 6.431x : I finished the First Exam
+- Udacity Full Stack : Watched 2h of video course
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I think I did a lot of mistakes in the MIT exam, it was quite hard, but well, we will see !
+I think tomorrow I'll spend some time learning more about Anki, that stuff is awesome and I think I'll use it for EVERY kind of stuff I want to learn !
 
 [Back Top](#days)
 
@@ -1004,11 +1004,10 @@ Mathematics in the morning and python in the afternoon. I also started creating 
 ### Day 70: February, 29, 2020
 
 **Today's Progress**:
+- Udacity Full Stack : Learned how to write a good API documentation this morning. 
+- MITx 6.00.1x : I finished the problem set of the week. We had to build a class that could encrypt and decrypt a message using cipher encryption.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I personally this is super important if you want your API to be quickly understood and used by people. A bad doc can add so much friction when you need to implement it.. I also spent a relative amount of time learning how to use Anki and create nice flash cards.
 
 [Back Top](#days)
 
@@ -1016,11 +1015,9 @@ Mathematics in the morning and python in the afternoon. I also started creating 
 ### Day 71: March, 01, 2020
 
 **Today's Progress**:
+- Integral course on KhanAcademy
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I started the KhanAcademy Integral course, did it for 1-2 hours while making Anki flashcard on the subject. I spent the morning trying to change the way LaTex was processed on my Anki app but couldn't manage to make it work so I gave up and kept it basic.
 
 [Back Top](#days)
 
@@ -1028,11 +1025,11 @@ Mathematics in the morning and python in the afternoon. I also started creating 
 ### Day 72: March, 02, 2020
 
 **Today's Progress**:
+- MITx 6.431x : Started unit 5 about continuous random variable.
+- Udacity Deep Learning : Started learning about Deep Convolutional GAN.
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I'm surprised that my intuition was quite alright along the morning of continuous random variable classes I had this morning. I will try to keep up with Khan Academy to handle the next integral calculus with less trouble !
+I don't understand well why using GAN models yet but it is only the beginning of the course. I decided to take my notes on a jupyter notebook as I finished my paper note book. In this way I can train myself with writing and formating in this type of file.
 
 [Back Top](#days)
 
