@@ -1037,11 +1037,14 @@ I don't understand well why using GAN models yet but it is only the beginning of
 ### Day 73: March, 03, 2020
 
 **Today's Progress**:
+- MITx 6.431x : We continued on our journey to learn the continuous world of probabilities. Comparing between PMF and PDF for every situation we encountered before, like conditioned probabilities. 
+- Udacity Deep Learning : Finished the section on Deep Convolutional GAN. 
 
-**Thoughts:**
+**Thoughts:** I feel I understand the PDF more easily than the PMF, I wasnt expecting it but it feels good ! 😃
+I really enjoyed the course on Deep Convolutional GAN, now I understand how usefull it can be ! For generating data that looks real some results looks incredible (check that [website](https://www.thispersondoesnotexist.com/)), but also for improving deep neural networks to learn with unlabled data. This way of learning resemble so much more of how humans we learn, I'm sure there is still a lot to dig in this area. I realised later today that I actually did this DCGAN section before the GAN section that was before, now I understand better why lots of concept were not explained very clearly lol. But I'm happy I could understand most of it with some external research !
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[This Person Does Not Exists](https://www.thispersondoesnotexist.com/)
 
 [Back Top](#days)
 
