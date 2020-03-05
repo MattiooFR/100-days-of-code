@@ -1052,11 +1052,11 @@ I really enjoyed the course on Deep Convolutional GAN, now I understand how usef
 ### Day 74: March, 04, 2020
 
 **Today's Progress**:
+- MITx6.00.1x : Started the new course about Algorithm complexity Big O.
+- MITx 6.431x : Kept on going on my Continuous probability course
+- Udacity Full Stack : Started my API project
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** A great and productive day ! I spent the whole morning working on the Full Stack nanodegree API project. It was okay to build the route, with the help of the previous code that we built while learning. Next is building the testcases for each route with one success and one failure scenario.
 
 [Back Top](#days)
 
@@ -1064,11 +1064,13 @@ I really enjoyed the course on Deep Convolutional GAN, now I understand how usef
 ### Day 75: March, 05, 2020
 
 **Today's Progress**:
+- MITx6.00.1x : Finished the section  course about Algorithm complexity Big O
+- MITx 6.431x : Today was about Joint PDF.
 
-**Thoughts:**
+**Thoughts:** I was quite efficient this morning but a bit less this afternoon and evening. My mit probability course is going so fast and there is so much content that I feel  starting getting late with it. But after a few hours straight of watching this kind of content I start not understanding anything in the end ! I really need to do this first in the morning and catch up my delay so I wont get in trouble for the next. The Big O algorithm complexity measurement was quite easy to understand, but hard to find in lots of examples. I really get the idea but sometime finding by reading the code what actually is the complexity when you have nested loops, with recursivity and all that. It was nice to learn this tho because I've never learned it before ! Next class is on List sorting, I'm curious to know more about it ! I need to finish my API project tomorrow.
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[Machine Learning with demo](https://www.youtube.com/watch?v=OQsn1c92pdY)
 
 [Back Top](#days)
 
