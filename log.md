@@ -1078,11 +1078,14 @@ I really enjoyed the course on Deep Convolutional GAN, now I understand how usef
 ### Day 76: March, 06, 2020
 
 **Today's Progress**:
+- Full Stack Udacity : Submitted the Trivia API project. It was a project about making the backend route for an already done frontend, models and DB. I implemented the API route in flask, defined the success and failed test for each route, and wrote a comprehensive documentation.
+- MITx 6.431x : Learned about conditioning on a random variable, independence Bayes' rule.
 
-**Thoughts:**
+**Thoughts:** The API project was cool, it was successfully reviewed at first try ! 💪🏼
+About the MITx class, I looked at my grades, and I predicted that I should be able to get above 60% in the end so I will probably buy the certification, 300$ is not nothing ! I will try to really focus on this, even tho I have 3 other MOOC that I paid for, but the MITx is really important for the path I want to achieve. It is getting a bit tedious but I'll make it works ^^
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[Seeing Theory, probability course](https://seeing-theory.brown.edu/) This website looks awesome !!!
 
 [Back Top](#days)
 
@@ -1090,11 +1093,12 @@ I really enjoyed the course on Deep Convolutional GAN, now I understand how usef
 ### Day 77: March, 07, 2020
 
 **Today's Progress**:
+- MITx 6.431x : Finished the Unit 5.
 
-**Thoughts:**
+**Thoughts:** I must say, I didnt understood everything. This unit was quite difficult and I will have to get back to it later. I'm a bit stressed that the rhythm is quite fast, I feel pressure to follow up without being able to fully understand and train on the content we are getting taught..
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[Illustrated Machine Course](https://vas3k.com/blog/machine_learning/)
 
 [Back Top](#days)
 
