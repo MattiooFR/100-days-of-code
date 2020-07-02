@@ -5,22 +5,22 @@
 I will code in **Python** programming language for at least an hour every day for the next 100 days.
 
 Start Date:  **December 22, 2019**
-End Date:  
+End Date:
 
 ----
 ## Days:
 |+|00                                    |10                                   |20                                 |30                                  |40                                  |50                                  |60                                  |70                                  |80                                  |90                                    |
 |--|-------------------------------------|-------------------------------------|-----------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------------------------------------|
-|00|[Day 1](#day-1-december-22-2019) | [Day 11](#day-11-january-01-2020) | [Day 21](#day-21-january-11-2020) | [Day 31](#day-31-january-21-2020) | [Day 41](#day-41-january-31-2020) | [Day 51](#day-51-february-10-2020) | [Day 61](#day-61-february-20-2020) | [Day 71](#day-71-march-01-2020) | [Day 81](#day-81-march-11-2020) | [Day 91](#day-91-march-21-2020) | 
-|01|[Day 2](#day-2-december-23-2019) | [Day 12](#day-12-january-02-2020) | [Day 22](#day-22-january-12-2020) | [Day 32](#day-32-january-22-2020) | [Day 42](#day-42-february-01-2020) | [Day 52](#day-52-february-11-2020) | [Day 62](#day-62-february-21-2020) | [Day 72](#day-72-march-02-2020) | [Day 82](#day-82-march-12-2020) | [Day 92](#day-92-march-22-2020) | 
-|02|[Day 3](#day-3-december-24-2019) | [Day 13](#day-13-january-03-2020) | [Day 23](#day-23-january-13-2020) | [Day 33](#day-33-january-23-2020) | [Day 43](#day-43-february-02-2020) | [Day 53](#day-53-february-12-2020) | [Day 63](#day-63-february-22-2020) | [Day 73](#day-73-march-03-2020) | [Day 83](#day-83-march-13-2020) | [Day 93](#day-93-march-23-2020) | 
-|03|[Day 4](#day-4-december-25-2019) | [Day 14](#day-14-january-04-2020) | [Day 24](#day-24-january-14-2020) | [Day 34](#day-34-january-24-2020) | [Day 44](#day-44-february-03-2020) | [Day 54](#day-54-february-13-2020) | [Day 64](#day-64-february-23-2020) | [Day 74](#day-74-march-04-2020) | [Day 84](#day-84-march-14-2020) | [Day 94](#day-94-march-24-2020) | 
-|04|[Day 5](#day-5-december-26-2019) | [Day 15](#day-15-january-05-2020) | [Day 25](#day-25-january-15-2020) | [Day 35](#day-35-january-25-2020) | [Day 45](#day-45-february-04-2020) | [Day 55](#day-55-february-14-2020) | [Day 65](#day-65-february-24-2020) | [Day 75](#day-75-march-05-2020) | [Day 85](#day-85-march-15-2020) | [Day 95](#day-95-march-25-2020) | 
-|05|[Day 6](#day-6-december-27-2019) | [Day 16](#day-16-january-06-2020) | [Day 26](#day-26-january-16-2020) | [Day 36](#day-36-january-26-2020) | [Day 46](#day-46-february-05-2020) | [Day 56](#day-56-february-15-2020) | [Day 66](#day-66-february-25-2020) | [Day 76](#day-76-march-06-2020) | [Day 86](#day-86-march-16-2020) | [Day 96](#day-96-march-26-2020) | 
-|06|[Day 7](#day-7-december-28-2019) | [Day 17](#day-17-january-07-2020) | [Day 27](#day-27-january-17-2020) | [Day 37](#day-37-january-27-2020) | [Day 47](#day-47-february-06-2020) | [Day 57](#day-57-february-16-2020) | [Day 67](#day-67-february-26-2020) | [Day 77](#day-77-march-07-2020) | [Day 87](#day-87-march-17-2020) | [Day 97](#day-97-march-27-2020) | 
-|07|[Day 8](#day-8-december-29-2019) | [Day 18](#day-18-january-08-2020) | [Day 28](#day-28-january-18-2020) | [Day 38](#day-38-january-28-2020) | [Day 48](#day-48-february-07-2020) | [Day 58](#day-58-february-17-2020) | [Day 68](#day-68-february-27-2020) | [Day 78](#day-78-march-08-2020) | [Day 88](#day-88-march-18-2020) | [Day 98](#day-98-march-28-2020) | 
-|08|[Day 9](#day-9-december-30-2019) | [Day 19](#day-19-january-09-2020) | [Day 29](#day-29-january-19-2020) | [Day 39](#day-39-january-29-2020) | [Day 49](#day-49-february-08-2020) | [Day 59](#day-59-february-18-2020) | [Day 69](#day-69-february-28-2020) | [Day 79](#day-79-march-09-2020) | [Day 89](#day-89-march-19-2020) | [Day 99](#day-99-march-29-2020) | [Day 100](#day-100-march-29-2020) | 
-|09|[Day 10](#day-10-december-31-2019) | [Day 20](#day-20-january-10-2020) | [Day 30](#day-30-january-20-2020) | [Day 40](#day-40-january-30-2020) | [Day 50](#day-50-february-09-2020) | [Day 60](#day-60-february-19-2020) | [Day 70](#day-70-february-29-2020) | [Day 80](#day-80-march-10-2020) | [Day 90](#day-90-march-20-2020) | [Day 100](#day-100-march-30-2020) | 
+|00|[Day 1](#day-1-december-22-2019) | [Day 11](#day-11-january-01-2020) | [Day 21](#day-21-january-11-2020) | [Day 31](#day-31-january-21-2020) | [Day 41](#day-41-january-31-2020) | [Day 51](#day-51-february-10-2020) | [Day 61](#day-61-february-20-2020) | [Day 71](#day-71-march-01-2020) | [Day 81](#day-81-march-11-2020) | [Day 91](#day-91-march-21-2020) |
+|01|[Day 2](#day-2-december-23-2019) | [Day 12](#day-12-january-02-2020) | [Day 22](#day-22-january-12-2020) | [Day 32](#day-32-january-22-2020) | [Day 42](#day-42-february-01-2020) | [Day 52](#day-52-february-11-2020) | [Day 62](#day-62-february-21-2020) | [Day 72](#day-72-march-02-2020) | [Day 82](#day-82-march-12-2020) | [Day 92](#day-92-march-22-2020) |
+|02|[Day 3](#day-3-december-24-2019) | [Day 13](#day-13-january-03-2020) | [Day 23](#day-23-january-13-2020) | [Day 33](#day-33-january-23-2020) | [Day 43](#day-43-february-02-2020) | [Day 53](#day-53-february-12-2020) | [Day 63](#day-63-february-22-2020) | [Day 73](#day-73-march-03-2020) | [Day 83](#day-83-march-13-2020) | [Day 93](#day-93-march-23-2020) |
+|03|[Day 4](#day-4-december-25-2019) | [Day 14](#day-14-january-04-2020) | [Day 24](#day-24-january-14-2020) | [Day 34](#day-34-january-24-2020) | [Day 44](#day-44-february-03-2020) | [Day 54](#day-54-february-13-2020) | [Day 64](#day-64-february-23-2020) | [Day 74](#day-74-march-04-2020) | [Day 84](#day-84-march-14-2020) | [Day 94](#day-94-march-24-2020) |
+|04|[Day 5](#day-5-december-26-2019) | [Day 15](#day-15-january-05-2020) | [Day 25](#day-25-january-15-2020) | [Day 35](#day-35-january-25-2020) | [Day 45](#day-45-february-04-2020) | [Day 55](#day-55-february-14-2020) | [Day 65](#day-65-february-24-2020) | [Day 75](#day-75-march-05-2020) | [Day 85](#day-85-march-15-2020) | [Day 95](#day-95-march-25-2020) |
+|05|[Day 6](#day-6-december-27-2019) | [Day 16](#day-16-january-06-2020) | [Day 26](#day-26-january-16-2020) | [Day 36](#day-36-january-26-2020) | [Day 46](#day-46-february-05-2020) | [Day 56](#day-56-february-15-2020) | [Day 66](#day-66-february-25-2020) | [Day 76](#day-76-march-06-2020) | [Day 86](#day-86-march-16-2020) | [Day 96](#day-96-march-26-2020) |
+|06|[Day 7](#day-7-december-28-2019) | [Day 17](#day-17-january-07-2020) | [Day 27](#day-27-january-17-2020) | [Day 37](#day-37-january-27-2020) | [Day 47](#day-47-february-06-2020) | [Day 57](#day-57-february-16-2020) | [Day 67](#day-67-february-26-2020) | [Day 77](#day-77-march-07-2020) | [Day 87](#day-87-march-17-2020) | [Day 97](#day-97-march-27-2020) |
+|07|[Day 8](#day-8-december-29-2019) | [Day 18](#day-18-january-08-2020) | [Day 28](#day-28-january-18-2020) | [Day 38](#day-38-january-28-2020) | [Day 48](#day-48-february-07-2020) | [Day 58](#day-58-february-17-2020) | [Day 68](#day-68-february-27-2020) | [Day 78](#day-78-march-08-2020) | [Day 88](#day-88-march-18-2020) | [Day 98](#day-98-march-28-2020) |
+|08|[Day 9](#day-9-december-30-2019) | [Day 19](#day-19-january-09-2020) | [Day 29](#day-29-january-19-2020) | [Day 39](#day-39-january-29-2020) | [Day 49](#day-49-february-08-2020) | [Day 59](#day-59-february-18-2020) | [Day 69](#day-69-february-28-2020) | [Day 79](#day-79-march-09-2020) | [Day 89](#day-89-march-19-2020) | [Day 99](#day-99-march-29-2020) | [Day 100](#day-100-march-29-2020) |
+|09|[Day 10](#day-10-december-31-2019) | [Day 20](#day-20-january-10-2020) | [Day 30](#day-30-january-20-2020) | [Day 40](#day-40-january-30-2020) | [Day 50](#day-50-february-09-2020) | [Day 60](#day-60-february-19-2020) | [Day 70](#day-70-february-29-2020) | [Day 80](#day-80-march-10-2020) | [Day 90](#day-90-march-20-2020) | [Day 100](#day-100-march-30-2020) |
 
 [Or Jump Right To Conclusion!](#Conclusion)
 
@@ -61,7 +61,7 @@ A list of all the [special method names](https://docs.python.org/3/reference/dat
 
 **Thoughts:** A concept that took me long time to understand with C++ seems much more easier, and I quickly see how I could use all of this !
 
-**Link to work:** 
+**Link to work:**
 1. [Fun MOOC about Python](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/courseware/39f73ecca8274b48b5edc06d00ab259c/3495acace4304b78b11ed18a2641367f)
 
 [Back Top](#days)
@@ -94,7 +94,7 @@ class C:
 ins = C()
 ins.f()
 ```
- 
+
 Following the LEGB rule, there are no local `a` variable in the function f, there are no enclosed function, and yes, there is a global variable called a. In this scenario the print(a) will print 1. the bloc a=3 in the class will be skipped. To avoid it and print 3 you must write print(self.a)
 
 **Thoughts:** Not much today, I feel that a lot of work is coming on, this journey. Still 1000% motivated :)
@@ -108,7 +108,7 @@ Following the LEGB rule, there are no local `a` variable in the function f, ther
 ----
 ### Day 6: January 27, 2019
 
-**Today's Progress**: I am taking a quick GIT course on codeacademy so I can start tracking all my progress for my course projects on github. I am also doing a free course on Data Analyst to learn pandas and numpy python library as Udacity is recommending me for the Deep Learning nanodegree course. 
+**Today's Progress**: I am taking a quick GIT course on codeacademy so I can start tracking all my progress for my course projects on github. I am also doing a free course on Data Analyst to learn pandas and numpy python library as Udacity is recommending me for the Deep Learning nanodegree course.
 Creating your own exception is very easy:
 ```py
 class MyOwnError(Exception):
@@ -336,7 +336,7 @@ The next step to improve our neural network is to fasten the training process. W
 ----
 ### Day 26: January, 16, 2020
 
-**Today's Progress**: I started my course on pytorch on my Deep Learning nanodegree on Udacity. I also started a course on mathematics for Machine Learning on Coursera. It was about linear algebra. I finished the work for week 1 in one day. I finished the linear equation and graphs on Khan Academy. 
+**Today's Progress**: I started my course on pytorch on my Deep Learning nanodegree on Udacity. I also started a course on mathematics for Machine Learning on Coursera. It was about linear algebra. I finished the work for week 1 in one day. I finished the linear equation and graphs on Khan Academy.
 
 **Thoughts:** I need to change the way I'm writting this log because I do it at the end of the day, and I realize that I am summarizing too much because I forgot the details. Pytorch seems really really interesting and easy to handle. Pytorch has all the tools of numpy and we just scratched the surface ! I'm surprise how I was good to answer all the quizz on the linear algebra course, seems I didnt forget that much since High School. I'm also continuing Khan Academy. I'm aiming to finish all the course in mathematics, starting from Algebra I so I'll build up solid fundations in math. I'm going to start reading a book on Mathematics called The Joy of X (not a porn book lol) written by Steven Strogatz. I also started an excel file where I'll write down every book, video, article, course that I do day by day to have a solid history of what took me from 0 to Data Scientist.
 
@@ -348,7 +348,7 @@ The next step to improve our neural network is to fasten the training process. W
 ----
 ### Day 27: January, 17, 2020
 
-**Today's Progress**: I'm doing some linear algebra classes. The dot product is vector(a) . vector(b) = ax x bx + ay x by ... or = ||vector(a)|| x cos(θ) x ||vector(b)||. I did exercises with scalar projection and vector projection. I continued in my deep learning nanodegree by learning how to use and create a neural network with Pytorch. The project we used with pytorch was about training a model to recognize number from 0 to 9. We used nn module of pytorch to easily create a model, update the hidden layers, and get the output. We used the optim module of pytorch to update the weights from the gradients calculated automatically from the autograd feature. 
+**Today's Progress**: I'm doing some linear algebra classes. The dot product is vector(a) . vector(b) = ax x bx + ay x by ... or = ||vector(a)|| x cos(θ) x ||vector(b)||. I did exercises with scalar projection and vector projection. I continued in my deep learning nanodegree by learning how to use and create a neural network with Pytorch. The project we used with pytorch was about training a model to recognize number from 0 to 9. We used nn module of pytorch to easily create a model, update the hidden layers, and get the output. We used the optim module of pytorch to update the weights from the gradients calculated automatically from the autograd feature.
 
 **Thoughts:** I want to strongly understand what a dot product, scalar and vector projections are. Took me a few hours but I think this is a concept I know well now. Pytorch seems awesome I have to say. It shorten the amount of code needed, and simplifies a lot what you need to know. I think its important to now the basic so you are able to be even better with tools that just makes your writing of code faster.
 
@@ -358,7 +358,7 @@ The next step to improve our neural network is to fasten the training process. W
 ----
 ### Day 28: January, 18, 2020
 
-**Today's Progress**: 
+**Today's Progress**:
 - Deep learning nanodegree Udacity Course. We explored using training set and testing set with pytorch, using function to disable the gradient calculus during the testing part. We also discovered the Dropout technic to prevent overfitting our model.
 - Full Stack nanodegree Udacity Course. Some introduction about the course. They advise to have a background in front end and relational databse so I decided to start course on relational databse (because I dont have that background lol).
 - Free course on relational databse (SQL). Learned the basics of SQL with basics commands such as select from where group count, join, having, etc.
@@ -439,7 +439,7 @@ The next step to improve our neural network is to fasten the training process. W
 ----
 ### Day 33: January, 23, 2020
 
-**Today's Progress**: 
+**Today's Progress**:
 - Math exercises on variance, and standard deviation.
 - Setup my AWS account
 - Did some FreeCodeCamp lessons on CSS
@@ -478,7 +478,7 @@ The next step to improve our neural network is to fasten the training process. W
   <p align=center>
     <img src="/assets/ice_skating_finland.JPG" alt="Ice skating in Finland" height="50%" width="50%">
   </p>
-  
+
 **Link(s) to work**
 [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2&t=0s)
 
@@ -513,7 +513,7 @@ The next step to improve our neural network is to fasten the training process. W
 ### Day 38: January, 28, 2020
 
 **Today's Progress**:
-- Linear transformations : The main idea is to look where the i and j vectors are located after a transformation, and use their new coordinates as a 2x2 matrix to find any new coordinates of any vector having the same transformation. 
+- Linear transformations : The main idea is to look where the i and j vectors are located after a transformation, and use their new coordinates as a 2x2 matrix to find any new coordinates of any vector having the same transformation.
 
   <p align="center">
     <img src="https://tex.s2cms.ru/svg/%5Cbegin%7Bpmatrix%7D%0Aa%26b%5C%5C%0Ac%26d%5C%5C%0A%5Cend%7Bpmatrix%7D%0A%5Cbegin%7Bpmatrix%7D%0Ax%5C%5C%0Ay%5C%5C%0A%5Cend%7Bpmatrix%7D%20%3D%20%0A%5Cbegin%7Bpmatrix%7D%0Aax%2Bby%5C%5C%0Acx%2Bdy%5C%5C%0A%5Cend%7Bpmatrix%7D" alt="\begin{pmatrix}
@@ -523,7 +523,7 @@ The next step to improve our neural network is to fasten the training process. W
     \begin{pmatrix}
     x\\
     y\\
-    \end{pmatrix} = 
+    \end{pmatrix} =
     \begin{pmatrix}
     ax+by\\
     cx+dy\\
@@ -540,7 +540,7 @@ The next step to improve our neural network is to fasten the training process. W
     \underbrace{\begin{pmatrix}
     e&amp;f\\
     g&amp;h\\
-    \end{pmatrix}}_\text{M1} = 
+    \end{pmatrix}}_\text{M1} =
     \begin{pmatrix}
     ae+bg&amp;af+bh\\
     ce+dg&amp;cf+dh\\
@@ -559,28 +559,28 @@ class Node:
   def __init__(self, value, next_node=None):
     self.value = value
     self.next_node = next_node
-    
+
   def get_value(self):
     return self.value
-  
+
   def get_next_node(self):
     return self.next_node
-  
+
   def set_next_node(self, next_node):
     self.next_node = next_node
 
 class LinkedList:
   def __init__(self, value=None):
     self.head_node = Node(value)
-  
+
   def get_head_node(self):
     return self.head_node
-  
+
   def insert_beginning(self, new_value):
     new_node = Node(new_value)
     new_node.set_next_node(self.head_node)
     self.head_node = new_node
-    
+
   def stringify_list(self):
     string_list = ""
     current_node = self.get_head_node()
@@ -589,7 +589,7 @@ class LinkedList:
         string_list += str(current_node.get_value()) + "\n"
       current_node = current_node.get_next_node()
     return string_list
-  
+
   def remove_node(self, value_to_remove):
     current_node = self.get_head_node()
     if current_node.get_value() == value_to_remove:
@@ -626,7 +626,7 @@ class LinkedList:
 
 **Today's Progress**:
 - Starting the day with some Linear Algebra yihaaa. I understood pretty well the idea of Matrix determinant, and linear system of equations. Reminded me a lot high school!
-- I finished the HTML Fundamentals course on SoloLearn. 
+- I finished the HTML Fundamentals course on SoloLearn.
 - Python Full Stack Nano Degree, we built a small hello world app using Flask to get to know the code. I also learned SQLAlchemy and the abstraction it provides for using SQL. I can't wait to get my hands in this (no dirty joke).
 
 **Thoughts:** SoloLearn is really easy but gives a quick insight as it is quite fast to do it. I like the direction my full stack course is taking, I think the content I will learn will be very valuable and help me to realise good project using Python I have in head.
@@ -637,7 +637,7 @@ class LinkedList:
 ### Day 41: January, 31, 2020
 
 **Today's Progress**:
-- Dog breed classification project : Alright, first day that I'm working on this second Udacity Deep Learning Nano Degree project! I spent a few hours on testing the accuracy of different technics for face detection. OpenCV does a very good job on human's faces, but it also detects faces on dogs (27% in my tests). I also tried with VGG16 conv net pretrained on the ImageNet dataset restraining only to the different dogs breed. I obtain 100% accuracy detecting dogs and 0% on humans so no false positive. With ResNet18 it goes even faster to process and same results. 
+- Dog breed classification project : Alright, first day that I'm working on this second Udacity Deep Learning Nano Degree project! I spent a few hours on testing the accuracy of different technics for face detection. OpenCV does a very good job on human's faces, but it also detects faces on dogs (27% in my tests). I also tried with VGG16 conv net pretrained on the ImageNet dataset restraining only to the different dogs breed. I obtain 100% accuracy detecting dogs and 0% on humans so no false positive. With ResNet18 it goes even faster to process and same results.
 
 - Linear Algebra : I watched a video talking about dot products.
 
@@ -678,11 +678,11 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 44: February, 03, 2020
 
 **Today's Progress**:
-- Deep Learning Nanodegree : I almost finished my Dog Breed Classifier project, I solved the problem I had on building my model from scratch by increasing the deepness of the Convolutional Layers. 
+- Deep Learning Nanodegree : I almost finished my Dog Breed Classifier project, I solved the problem I had on building my model from scratch by increasing the deepness of the Convolutional Layers.
 - MITx 6.431x : I finished the first series of video, tomorrow I need to finish everything else, especially the exercises that are due for the 5th of febrary.
 - Some Fundamental Algebra on Brilliant
 
-**Thoughts:** My issue on the Deep Learning project now is to use Transfer Learning to start from a better model and change the output to match my 133 dog breed different outputs. I could not figure why the loss was not decreasing during training. 
+**Thoughts:** My issue on the Deep Learning project now is to use Transfer Learning to start from a better model and change the output to match my 133 dog breed different outputs. I could not figure why the loss was not decreasing during training.
 
 [Back Top](#days)
 
@@ -705,7 +705,7 @@ I started this MITx course only because of the certification and refreshing my p
 - Mathematics : I did a bit of mathematics lessons on Khan Academy.
 - Full Stack Nanodegree : I spent the whole morning on the Full Stack nanodegree and learned a lot about using SQLAlchemy, Fetch and Flask together to build a Todo list project.
 
-**Thoughts:** My project was reviewed and accepted on the first try I'm really happy ! 
+**Thoughts:** My project was reviewed and accepted on the first try I'm really happy !
 
 **Link(s) to work**
 [Example](http://www.example.com)
@@ -716,7 +716,7 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 47: February, 06, 2020
 
 **Today's Progress**:
-- Mathematics : Learned how to calculate the limit of functions. 
+- Mathematics : Learned how to calculate the limit of functions.
 - MITx: 6.00.1x : I finished the unit 3 (about floats and few exercises that were quite easy). I also finished the unit 4 that was about function and recursivity. Always good to refresh and practice those skills.
 
 **Thoughts:** My second project about my github profile was reviewed and accepted too. I got the advice to be a bit more active on github if I can, and I will try to look at open source projects and see if I can give it a hand.
@@ -773,7 +773,7 @@ I started this MITx course only because of the certification and refreshing my p
 ### Day 52: February, 11, 2020
 
 **Today's Progress**:
-- Full Stack Nano Degree : Finished the course about Flask, SQLAlchemy, flask-sqlalchemy, migration, SQL... and now it is Fyyur project time ! 
+- Full Stack Nano Degree : Finished the course about Flask, SQLAlchemy, flask-sqlalchemy, migration, SQL... and now it is Fyyur project time !
 - Mathematics : Derivative course on Khan Academy.
 - Deep Learning Nano Degree : Finished the github section and started the new section about Recurrent Neural Networks.
 
@@ -860,7 +860,7 @@ I started this MITx course only because of the certification and refreshing my p
 - MITx 6.431x : I started the Unit 4 on Discrete Random Variable.
 - Deep Learning Udacity : Started playing around with RNN.
 
-**Thoughts:** I'm happy to see that my foundation are actually quite OK, I think I just need to consolidate some of the high school stuff but I should be able to quickly move on post graduate mathematics level. I am also writing down in a pages document on my own words what I understand from mathematics concept I didnt know, or not clearly enough. This way I also practice my skills on latex for mathematics expressions. 
+**Thoughts:** I'm happy to see that my foundation are actually quite OK, I think I just need to consolidate some of the high school stuff but I should be able to quickly move on post graduate mathematics level. I am also writing down in a pages document on my own words what I understand from mathematics concept I didnt know, or not clearly enough. This way I also practice my skills on latex for mathematics expressions.
 
 [Back Top](#days)
 
@@ -1004,7 +1004,7 @@ I think tomorrow I'll spend some time learning more about Anki, that stuff is aw
 ### Day 70: February, 29, 2020
 
 **Today's Progress**:
-- Udacity Full Stack : Learned how to write a good API documentation this morning. 
+- Udacity Full Stack : Learned how to write a good API documentation this morning.
 - MITx 6.00.1x : I finished the problem set of the week. We had to build a class that could encrypt and decrypt a message using cipher encryption.
 
 **Thoughts:** I personally this is super important if you want your API to be quickly understood and used by people. A bad doc can add so much friction when you need to implement it.. I also spent a relative amount of time learning how to use Anki and create nice flash cards.
@@ -1037,8 +1037,8 @@ I don't understand well why using GAN models yet but it is only the beginning of
 ### Day 73: March, 03, 2020
 
 **Today's Progress**:
-- MITx 6.431x : We continued on our journey to learn the continuous world of probabilities. Comparing between PMF and PDF for every situation we encountered before, like conditioned probabilities. 
-- Udacity Deep Learning : Finished the section on Deep Convolutional GAN. 
+- MITx 6.431x : We continued on our journey to learn the continuous world of probabilities. Comparing between PMF and PDF for every situation we encountered before, like conditioned probabilities.
+- Udacity Deep Learning : Finished the section on Deep Convolutional GAN.
 
 **Thoughts:** I feel I understand the PDF more easily than the PMF, I wasnt expecting it but it feels good ! 😃
 I really enjoyed the course on Deep Convolutional GAN, now I understand how usefull it can be ! For generating data that looks real some results looks incredible (check that [website](https://www.thispersondoesnotexist.com/)), but also for improving deep neural networks to learn with unlabled data. This way of learning resemble so much more of how humans we learn, I'm sure there is still a lot to dig in this area. I realised later today that I actually did this DCGAN section before the GAN section that was before, now I understand better why lots of concept were not explained very clearly lol. But I'm happy I could understand most of it with some external research !
@@ -1106,23 +1106,15 @@ About the MITx class, I looked at my grades, and I predicted that I should be ab
 ### Day 78: March, 08, 2020
 
 **Today's Progress**:
-
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+Did some probabilities today. I still have a lot of articles to read before going to bed, lets goo
 
 [Back Top](#days)
 
 ----
-### Day 79: March, 09, 2020
+### Day 79: March, 12, 2020
 
 **Today's Progress**:
-
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+After a few days away for holiday I'm catching up my delay on the 100 days of code challenge!
 
 [Back Top](#days)
 
@@ -1130,11 +1122,11 @@ About the MITx class, I looked at my grades, and I predicted that I should be ab
 ### Day 80: March, 10, 2020
 
 **Today's Progress**:
+- 2h working on my MITx 14.310x online course for my Data Science micro master !
+- I implemented boto3 library in my 1pic1day project so my pictures are no longer stored on my computer locally but they are stored in AWS S3 storage service !
 
-**Thoughts:**
-
-**Link(s) to work**
-[Example](http://www.example.com)
+**Thoughts:** I have been away for long, 100DaysOFCode challenge speaking, but I did coded during the last 2 months ! I actually started a project using Flask, PostgreSQL and basic frond end where you can create an online album photo with a public link you can share to people. With this link people can only see one picture from the album per day !
+I decided I had to finish the 100DaysOfCode challenge I had started so, see you tomorrow 🙃
 
 [Back Top](#days)
 
