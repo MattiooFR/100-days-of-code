@@ -1158,14 +1158,17 @@ I decided I had to finish the 100DaysOfCode challenge I had started so, see you 
 [Back Top](#days)
 
 ----
-### Day 83: March 13, 2020
+### Day 83: July 07, 2020
 
 **Today's Progress**:
+- MITx 14.310x: 2h on statistic inferences
+- Learned how to properly structure a Python Application and started to write an article about it for my blog
 
 **Thoughts**:
+It feels good to be back on the track of programming more often ! I'm really happy I started the challenge again. I might take breaks during the weekend because I will be travelling in one week but that's alright.
 
 **Link(s) to work**:
-[Example](https://www.example.com)
+[Python Application Layouts](https://realpython.com/python-application-layouts/)
 
 [Back Top](#days)
 
